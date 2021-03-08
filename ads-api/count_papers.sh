@@ -21,13 +21,31 @@
 #############################################################################
 # Change variables below before running the script
 
-token=rEmltdg4ezegaIX0Moow2VJ9BnJ34qKRgxal9qTi
+token=
 partner=$1
 datei=$2
 datef=$3
 
+#############################################################################
+# Check if token is present and at least one argument
+
+
+if [ -z $token ] ; then
+    echo "==================================================="
+    echo "no token, I am out..."
+    echo "GETTING A TOKEN: create an ADS account and sign in:"
+    echo "https://ui.adsabs.harvard.edu/user/account/login"
+    echo "go to acccount -> settings -> API Token"
+    echo "copy the value to the 'token' variable below"
+    echo "==================================================="
+    exit
+fi
+
 if [ -z $1 ] ; then
+    echo "==================================================="
     echo "no inputs, I am out..."
+    echo "example: ./count_papers.sh USA 2020-01 2020-12"
+    echo "==================================================="
     exit
 fi
 
