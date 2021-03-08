@@ -16,3 +16,7 @@ This repository contains some of the scripts used by the US NGO to generate its 
 ### ads-api
 
 Script to generate various publication lists and metrics for a given country and time period: [ads-api](ads-api) 
+
+### autolog
+
+Script to generate daily program completion plots, currently publised on the US NGO Twitter account: [autolog](autolog) 
