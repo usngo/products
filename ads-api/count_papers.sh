@@ -34,7 +34,7 @@ datef=$3
 
 if [ -z $token ] ; then
     echo "==================================================="
-    echo "no token, I am out..."
+    echo "no ADS-API token provided, I am out..."
     echo "GETTING A TOKEN: create an ADS account and sign in:"
     echo "https://ui.adsabs.harvard.edu/user/account/login"
     echo "go to acccount -> settings -> API Token"
@@ -43,9 +43,9 @@ if [ -z $token ] ; then
     exit
 fi
 
-if [ -z $1 ] ; then
+if [ "$#" -ne 3 ] ; then
     echo "==================================================="
-    echo "no inputs, I am out..."
+    echo "illegal number of input parameters, I am out..."
     echo "example: ./count_papers.sh USA 2020-01 2020-06"
     echo "==================================================="
     exit
