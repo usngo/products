@@ -4,3 +4,7 @@
 Command-line tools used by this script:
 
     curl, jq, tr, sed, egrep, gsed, awk, tee, pdflatex, bibtex
+
+The command `gsed` is the GNU version of `sed` (to work on a MAC machine), install via homebrew with:
+
+    brew install gnu-sed
