@@ -3,6 +3,7 @@
 
 This script uses a series of APIs from [@adsabs](https://github.com/adsabs), described in https://github.com/adsabs/adsabs-dev-api.
 
+---
 ### Disclaimer 
 
 This script is provided "as-is". It has been tested on a MAC terminal, so if you are on a Linux machine there are some adjustments to be made. One of the items in the to-do list (see below) is to make this script *OS agnostic*.
@@ -24,5 +25,7 @@ The command `gsed` is the GNU version of `sed` (to work on a MAC machine), insta
 - [ ] Check whether all command-line tools are in the $PATH
 
 ---
+
 Follow us on Twitter! <a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
+
 ---
