@@ -1,7 +1,6 @@
 ---
-# ads-api
+# ads-api (`count_papers.sh`)
 
----
 This script uses a series of APIs from @adsabs, described in https://github.com/adsabs/adsabs-dev-api.
 
 ## Disclaimer 
