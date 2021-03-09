@@ -25,7 +25,3 @@ The command `gsed` is the GNU version of `sed` (to work on a MAC machine), insta
 - [ ] Check whether all command-line tools are in the $PATH
 
 ---
-
-Follow us on Twitter! <a href="https://twitter.com/usngo" target="_blank"><img src="https://badgen.net/twitter/follow/usngo"></a>
-
----
