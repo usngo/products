@@ -1,7 +1,9 @@
 ### ads-api
 ---
 
-This script uses a series of API from ADS, described in https://github.com/adsabs/adsabs-dev-api
+This script uses a series of APIs from @adsabs, described in https://github.com/adsabs/adsabs-dev-api.
+
+Disclaimer: this script is provided "as-is". It has been tested on a MAC terminal, so if you are on a Linux machine there are some adjustments to be made. One of the items in the to-do list (see below) is to make this script *OS agnostic*.
 
 Command-line tools used by this script:
 
@@ -10,3 +12,9 @@ Command-line tools used by this script:
 The command `gsed` is the GNU version of `sed` (to work on a MAC machine), install via homebrew with:
 
     brew install gnu-sed
+
+Below is a tentative to-do list:
+
+- [x] Add an `if` statement at the beginning testing whether 3 input arguments are given
+- [ ] Test script on MAC and Linux machines. Make it agnostic?
+- [ ] Check whether all command-line tools are in the $PATH
