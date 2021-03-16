@@ -11,7 +11,7 @@
 #
 # BEFORE RUNNING: create an ADS account and sign in:
 #                 https://ui.adsabs.harvard.edu/user/account/login
-#                 go to "acccount" -> "settings" -> "API Token"
+#                 go to "account" -> "settings" -> "API Token"
 #                 copy the value and paste below on the "token variable"
 #
 # AUTHOR: Vinicius Placco (vinicius.placco@noirlab.edu) - US NGO
@@ -40,7 +40,7 @@ if [ -z $token ] ; then
     echo "no ADS-API token provided, I am out..."
     echo "GETTING A TOKEN: create an ADS account and sign in:"
     echo "https://ui.adsabs.harvard.edu/user/account/login"
-    echo "go to acccount -> settings -> API Token"
+    echo "go to account -> settings -> API Token"
     echo "copy the value to the 'token' variable below"
     echo "==================================================="
     exit
