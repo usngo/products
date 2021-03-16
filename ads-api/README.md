@@ -37,6 +37,8 @@ The first parameter (`PARTNER`) has to do with the affiliations in the author li
 
 Example of a successful run:
 
+    [vinicius.placco@supergrover ads-api]$ls
+    aastex63.cls    aasjournal.bst    count_papers.sh
     [vinicius.placco@supergrover ads-api]$ ./count_papers.sh USA 2020-01 2020-06
     
     ======================================
