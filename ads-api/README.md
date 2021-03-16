@@ -51,6 +51,9 @@ Example of a successful run:
     
     Generating LaTeX report..........done!
     
+    [vinicius.placco@supergrover ads-api]$ls
+    README.md       aastex63.cls    bib.pdf         bibcode.list    count_papers.sh metrics.json    papers.txt
+    aasjournal.bst  adsbib.json     bib.tex         bibtex.json     full.json       papers.bib      summary.txt
     [vinicius.placco@supergrover ads-api]$
 
 The script currently does not print any error messages in the LaTeX processing.
