@@ -23,7 +23,7 @@ Also, there are two auxiliary files (`aasjournal.bst` and `aastex63.cls`) that a
 ### Before running the script: get an `ADS-API` token:
 
 - Create an ADS account and/or sign in: https://ui.adsabs.harvard.edu/user/account/login
-- Go to "acccount" -> "settings" -> "API Token"
+- Go to "account" -> "settings" -> "API Token"
 - Copy the value and paste it on the `token` variable inside the script (line 29) 
 
 ---
