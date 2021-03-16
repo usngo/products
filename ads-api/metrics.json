@@ -1,27 +1,27 @@
 {
   "basic stats": {
-    "median number of downloads": 117,
-    "average number of reads": 346,
+    "median number of downloads": 118,
+    "average number of reads": 349,
     "normalized paper count": 9.210003780914326,
-    "recent number of reads": 2113,
+    "recent number of reads": 2390,
     "number of papers": 81,
-    "recent number of downloads": 1056,
-    "total number of reads": 28028,
-    "median number of reads": 274,
-    "total number of downloads": 11922,
-    "average number of downloads": 147.1851851851852
+    "recent number of downloads": 1176,
+    "total number of reads": 28305,
+    "median number of reads": 276,
+    "total number of downloads": 12042,
+    "average number of downloads": 148.66666666666666
   },
   "citation stats refereed": {
-    "normalized number of citations": 51.83201399495516,
-    "average number of refereed citations": 7.234567901234568,
+    "normalized number of citations": 53.42155790396501,
+    "average number of refereed citations": 7.419753086419753,
     "median number of citations": 5,
-    "median number of refereed citations": 3,
-    "number of citing papers": 677,
-    "average number of citations": 10.037037037037036,
-    "total number of refereed citations": 586,
-    "normalized number of refereed citations": 38.86766389627627,
+    "median number of refereed citations": 4,
+    "number of citing papers": 684,
+    "average number of citations": 10.098765432098766,
+    "total number of refereed citations": 601,
+    "normalized number of refereed citations": 40.269413323606194,
     "number of self-citations": 9,
-    "total number of citations": 813
+    "total number of citations": 818
   },
   "histograms": {
     "downloads": {
@@ -37,7 +37,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 1056,
+        "2021": 1176,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -65,7 +65,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 92.80112780355554,
+        "2021": 102.67106139406351,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -93,7 +93,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 1056,
+        "2021": 1176,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -121,7 +121,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 92.80112780355554,
+        "2021": 102.67106139406351,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -155,14 +155,14 @@
         "2021": 0
       },
       "nonrefereed to refereed": {
-        "2020": 139,
+        "2020": 130,
         "2019": 5,
-        "2021": 83
+        "2021": 82
       },
       "refereed to refereed normalized": {
         "2020": 27.116807941843255,
         "2019": 1.1305871416165534,
-        "2021": 10.620268812816548
+        "2021": 12.022018240146492
       },
       "refereed to nonrefereed normalized": {
         "2020": 0,
@@ -172,12 +172,12 @@
       "refereed to refereed": {
         "2020": 411,
         "2019": 22,
-        "2021": 153
+        "2021": 168
       },
       "nonrefereed to refereed normalized": {
-        "2020": 7.406247697631112,
+        "2020": 6.502990415697359,
         "2019": 0.3243137254901961,
-        "2021": 5.233788675557564
+        "2021": 6.324840439171246
       }
     },
     "reads": {
@@ -193,7 +193,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 171.65933953528548,
+        "2021": 194.211529326724,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -221,7 +221,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 2113,
+        "2021": 2390,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -249,7 +249,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 2113,
+        "2021": 2390,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -277,7 +277,7 @@
         "2010": 0,
         "2013": 0,
         "2012": 0,
-        "2021": 171.65933953528548,
+        "2021": 194.211529326724,
         "1997": 0,
         "1996": 0,
         "1999": 0,
@@ -315,7 +315,7 @@
   },
   "citation stats": {
     "number of self-citations": 9,
-    "average number of refereed citations": 7.234567901234568,
+    "average number of refereed citations": 7.419753086419753,
     "median number of citations": 5,
     "self-citations": [
       "2020ApJ...896...23W",
@@ -328,13 +328,13 @@
       "2020ApJ...892L..35B",
       "2020A&A...638A.112V"
     ],
-    "number of citing papers": 677,
-    "average number of citations": 10.037037037037036,
-    "total number of refereed citations": 586,
-    "normalized number of refereed citations": 38.86766389627627,
-    "median number of refereed citations": 3,
-    "total number of citations": 813,
-    "normalized number of citations": 51.83201399495516
+    "number of citing papers": 684,
+    "average number of citations": 10.098765432098766,
+    "total number of refereed citations": 601,
+    "normalized number of refereed citations": 40.269413323606194,
+    "median number of refereed citations": 4,
+    "total number of citations": 818,
+    "normalized number of citations": 53.42155790396501
   },
   "time series": {
     "g": {
@@ -346,8 +346,8 @@
       "2021": 14
     },
     "tori": {
-      "2020": 0.5954784320091939,
-      "2021": 0.9166534536553603
+      "2020": 0.5858193052910299,
+      "2021": 0.8786807335247195
     },
     "i10": {
       "2020": 12,
@@ -355,7 +355,7 @@
     },
     "read10": {
       "2020": 1880.3684044997153,
-      "2021": 935.1590885131224
+      "2021": 945.1627760567234
     },
     "i100": {
       "2020": 0,
@@ -363,36 +363,36 @@
     }
   },
   "basic stats refereed": {
-    "median number of downloads": 117,
-    "average number of reads": 346,
+    "median number of downloads": 118,
+    "average number of reads": 349,
     "normalized paper count": 9.210003780914326,
-    "recent number of reads": 2113,
+    "recent number of reads": 2390,
     "number of papers": 81,
-    "recent number of downloads": 1056,
-    "total number of reads": 28028,
-    "median number of reads": 274,
-    "total number of downloads": 11922,
-    "average number of downloads": 147.1851851851852
+    "recent number of downloads": 1176,
+    "total number of reads": 28305,
+    "median number of reads": 276,
+    "total number of downloads": 12042,
+    "average number of downloads": 148.66666666666666
   },
   "indicators refereed": {
     "g": 25,
-    "read10": 935.1590885131224,
+    "read10": 945.1627760567234,
     "m": 7,
     "i10": 22,
-    "riq": 957,
+    "riq": 937,
     "h": 14,
     "i100": 1,
-    "tori": 0.9166534536553603
+    "tori": 0.8786807335247195
   },
   "skipped bibcodes": [],
   "indicators": {
     "g": 25,
-    "read10": 935.1590885131224,
+    "read10": 945.1627760567234,
     "m": 7,
     "i10": 22,
-    "riq": 957,
+    "riq": 937,
     "h": 14,
     "i100": 1,
-    "tori": 0.9166534536553603
+    "tori": 0.8786807335247195
   }
 }

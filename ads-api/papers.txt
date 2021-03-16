@@ -149,7 +149,7 @@ Nicholl, Matt; Blanchard, Peter K.; Berger, Edo; Chornock, Ryan;
 Nature Astronomy - 04/2020
 https://ui.adsabs.harvard.edu/abs/2020NatAs...4..893N
 
-HST/WFC3 grism observations of z ˜ 1 clusters: evidence for evolution in the mass-size relation of quiescent galaxies from post-starburst galaxies
+HST/WFC3 grism observations of z ∼ 1 clusters: evidence for evolution in the mass-size relation of quiescent galaxies from post-starburst galaxies
 Matharu, J.; Muzzin, A.; Brammer, G. B.; van der Burg, R. F. J.;
 Monthly Notices of the Royal Astronomical Society - 04/2020
 https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.6011M

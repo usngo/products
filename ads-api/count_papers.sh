@@ -18,6 +18,9 @@
 #
 # DATE OF THIS VERSION: 2021-03-08
 #
+# TODO: Test script on MAC and Linux machines. Make it agnostic?
+# TODO: Check whether all command-line tools are in the $PATH
+#
 #############################################################################
 # Add $token variable below before running the script. You can hardcode the
 # partner, datei, and datef variables here as well, then run the script 
