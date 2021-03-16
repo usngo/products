@@ -6,7 +6,7 @@ This script uses a series of APIs from [@adsabs](https://github.com/adsabs), des
 ---
 ### Disclaimer 
 
-This script is provided "as-is". It has been tested on a MAC terminal (using `/bin/bash`), so if you are on a Linux machine there are some adjustments to be made. One of the items in the to-do list (see below) is to make this script *OS agnostic*.
+This script is provided "as-is". Contributions and suggestions for improvement are welcomed! This has been tested on a MAC terminal (using `/bin/bash`), so if you are on a Linux machine there are some adjustments to be made. One of the items in the to-do list (see below) is to make this script *OS agnostic*.
 
 ---
 ### Command-line tools used by this script
