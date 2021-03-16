@@ -35,6 +35,26 @@ On your `bash` terminal:
 
 The first parameter (`PARTNER`) has to do with the affiliations in the author list, so it is pretty flexible. I've tested with all Gemini Partners and it worked. The second and third parameter set the date range (with the `YYYY-MM` format) for the search.
 
+Example of a successful run:
+
+    [vinicius.placco@supergrover ads-api]$ ./count_papers.sh USA 2020-01 2020-06
+    
+    ======================================
+    Metrics for USA (2020-01 - 2020-06)
+    ======================================
+    number of papers   81
+    total citations    818
+    h-factor           14
+    i-10 index         22
+    i-100 index        1
+    ======================================
+    
+    Generating LaTeX report..........done!
+    
+    [vinicius.placco@supergrover ads-api]$
+
+The script currently does not print any error messages in the LaTeX processing.
+
 ---
 ### Output files (in progress...)
 
