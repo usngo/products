@@ -18,6 +18,13 @@ The command `gsed` is the GNU version of `sed` (to work on a MAC machine), insta
     brew install gnu-sed
 
 ---
+### Before running the script: get an `ADS-API` token:
+
+- Create an ADS account and/or sign in: https://ui.adsabs.harvard.edu/user/account/login
+- Go to "acccount" -> "settings" -> "API Token"
+- Copy the value and paste it on the `token variable` inside the script (line 29) 
+
+---
 ### Tentative to-do list:
 
 - [x] Add an `if` statement at the beginning testing whether 3 input arguments are given
