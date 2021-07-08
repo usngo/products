@@ -16,7 +16,7 @@
 #
 # AUTHOR: Vinicius Placco (vinicius.placco@noirlab.edu) - US NGO
 #
-# DATE OF THIS VERSION: 2021-03-08
+# DATE OF THIS VERSION: 2021-05-08
 #
 # TODO: Test script on MAC and Linux machines. Make it agnostic?
 # TODO: Check whether all command-line tools are in the $PATH
