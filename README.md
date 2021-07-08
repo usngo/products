@@ -8,7 +8,7 @@ This repository contains some of the scripts used by the US NGO to generate its 
 - [x] List of command-line tools required:
 
    ```
-   brew install xxx
+   brew install <name>
    ```
 ---
 ## Current products available:
@@ -19,7 +19,7 @@ Script to generate various publication lists and metrics for a given country and
 
 ### autolog
 
-Script to generate daily program completion plots, currently publised on the US NGO Twitter account: [autolog](autolog) 
+Script to generate daily program completion plots, currently published on the US NGO Twitter account: [autolog](autolog) 
 
 ---
 ## Need help?
