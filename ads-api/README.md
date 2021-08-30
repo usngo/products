@@ -37,26 +37,26 @@ The first parameter (`PARTNER`) has to do with the affiliations in the author li
 
 Example of a successful run:
 
-    [vinicius.placco@supergrover ads-api]$ls
-    README.md    aastex63.cls    aasjournal.bst    count_papers.sh
-    [vinicius.placco@supergrover ads-api]$ ./count_papers.sh USA 2020-01 2020-06
+    [vinicius.placco@dhcp-4-152 ads-api]$ ls
+    README.md       aasjournal.bst  aastex631.cls   count_papers.sh
+    [vinicius.placco@dhcp-4-152 ads-api]$ ./count_papers.sh USA 2020-01 2020-12
     
     ======================================
-    Metrics for USA (2020-01 - 2020-06)
+    Metrics for USA (2020-01 - 2020-12)
     ======================================
-    number of papers   81
-    total citations    818
-    h-factor           14
-    i-10 index         22
-    i-100 index        1
+    number of papers   198
+    total citations    2360
+    h-index            24
+    i-10 index         64
+    i-100 index        3
     ======================================
     
     Generating LaTeX report..........done!
     
-    [vinicius.placco@supergrover ads-api]$ls
-    README.md       aastex63.cls    bib.pdf         bibcode.list    count_papers.sh metrics.json    papers.txt
+    [vinicius.placco@dhcp-4-152 ads-api]$ ls
+    README.md       aastex631.cls   bib.pdf         bibcode.list    count_papers.sh metrics.json    papers.txt
     aasjournal.bst  adsbib.json     bib.tex         bibtex.json     full.json       papers.bib      summary.txt
-    [vinicius.placco@supergrover ads-api]$
+    [vinicius.placco@dhcp-4-152 ads-api]$
 
 The script currently does not print any error messages in the LaTeX processing.
 
@@ -79,6 +79,6 @@ The script currently does not print any error messages in the LaTeX processing.
 
 - [x] Add an `if` statement at the beginning testing whether 3 input arguments are given
 - [ ] Test script on MAC and Linux machines. Make it agnostic?
-- [ ] Check whether all command-line tools are in the $PATH
+- [ ] Check whether all command-line tools are in the `$PATH`
 
 ---

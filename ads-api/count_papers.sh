@@ -26,7 +26,7 @@
 # partner, datei, and datef variables here as well, then run the script 
 # without arguments.
 
-token=
+token=rEmltdg4ezegaIX0Moow2VJ9BnJ34qKRgxal9qTi
 partner=$1
 datei=$2
 datef=$3
@@ -121,7 +121,7 @@ Metrics for $partner ($datei - $datef)
 ======================================
 number of papers   $(jq '."basic stats"."number of papers"' metrics.json)
 total citations    $(jq '."citation stats refereed"."total number of citations"' metrics.json)
-h-factor           $(jq '."indicators"."h"' metrics.json)
+h-index            $(jq '."indicators"."h"' metrics.json)
 i-10 index         $(jq '."indicators"."i10"' metrics.json)
 i-100 index        $(jq '."indicators"."i100"' metrics.json)
 ======================================
@@ -135,7 +135,7 @@ i-100 index        $(jq '."indicators"."i100"' metrics.json)
 # module, just remove the "exit" command above
 
 echo "\
-\documentclass[twocolumn,linenumbers]{aastex63}
+\documentclass[twocolumn,linenumbers]{aastex631}
 \usepackage{hyperref}
 
 \begin{document}
@@ -150,7 +150,7 @@ echo "\
   database           astronomy
   number of papers   $(jq '."basic stats"."number of papers"' metrics.json)
   total citations    $(jq '."citation stats refereed"."total number of citations"' metrics.json)
-  h-factor           $(jq '."indicators"."h"' metrics.json)
+  h-index            $(jq '."indicators"."h"' metrics.json)
   i-10 index         $(jq '."indicators"."i10"' metrics.json)
   i-100 index        $(jq '."indicators"."i100"' metrics.json)
 
