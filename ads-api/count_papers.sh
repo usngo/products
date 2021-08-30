@@ -26,7 +26,7 @@
 # partner, datei, and datef variables here as well, then run the script 
 # without arguments.
 
-token=rEmltdg4ezegaIX0Moow2VJ9BnJ34qKRgxal9qTi
+token=
 partner=$1
 datei=$2
 datef=$3
