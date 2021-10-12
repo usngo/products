@@ -881,7 +881,7 @@ footnote\the\fncount\endcsname{\if@two@col\hsize=.5\textwidth
 \def\frontmatter@preabstractspace{12pt}
 \def\frontmatter@postabstractspace{12pt}
 
-\def\abstractname{ABSTRACT}
+\def\abstractname{}
 \long\def\frontmatter@abstractheading{%
  \begingroup
   \centering

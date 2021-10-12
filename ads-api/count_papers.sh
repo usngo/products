@@ -142,6 +142,12 @@ echo "\
 
 \title{Publication list based on Gemini Observatory data for Partner $partner}
 
+\begin{abstract}
+
+(\texttt{affiliation $partner} means that at least one author in the paper has an affiliation from $partner)
+
+\end{abstract}
+
 \section*{Search criteria on ADS}
 
 \begin{verbatim}
@@ -154,7 +160,7 @@ echo "\
 
 \end{verbatim}
 
-\vspace{4.0cm}
+\vspace{3.0cm}
 
 \section*{Metrics summary}
 
@@ -167,8 +173,6 @@ echo "\
   i-100 index        $(jq '."indicators"."i100"' metrics.json)
 
 \end{verbatim}
-
-\vspace{4cm}
 
 \nocite{*}
 \bibliographystyle{aasjournal}

@@ -1,12 +1,12 @@
 {
   "responseHeader": {
     "status": 0,
-    "QTime": 43,
+    "QTime": 3,
     "params": {
       "q": "aff:USA bibgroup:gemini pubdate:[2019-10 TO 2020-09]",
       "fl": "date,bibcode,aff,author,pub,citation_count,volume,page,title",
       "start": "0",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6165f0ca-3d03109604570f0579b92392",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6165fc73-4cce9325358cc66a2c3bab5e",
       "fq": [
         "property:refereed",
         "database:astronomy"
