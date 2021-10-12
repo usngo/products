@@ -140,14 +140,26 @@ echo "\
 
 \begin{document}
 
-\section*{Publication list for partner $partner}
+\title{Publication list based on Gemini Observatory data for Partner $partner}
+
+\section*{Search criteria on ADS}
 
 \begin{verbatim}
 
-  date range         $datei - $datef
+  affiliation        $partner
   bibgroup           gemini
-  property           refereed
   database           astronomy
+  date range         $datei - $datef
+  property           refereed
+
+\end{verbatim}
+
+\vspace{4.0cm}
+
+\section*{Metrics summary}
+
+\begin{verbatim}
+
   number of papers   $(jq '."basic stats"."number of papers"' metrics.json)
   total citations    $(jq '."citation stats refereed"."total number of citations"' metrics.json)
   h-index            $(jq '."indicators"."h"' metrics.json)
