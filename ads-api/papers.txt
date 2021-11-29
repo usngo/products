@@ -1,910 +1,1000 @@
 
-A triple-star system with a misaligned and warped circumstellar disk shaped by disk tearing
-Kraus, Stefan; Kreplin, Alexander; Young, Alison K.; Bate, Matthew
-Science - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020Sci...369.1233K
+The MAVERIC Survey: Simultaneous Chandra and VLA observations of the transitional millisecond pulsar candidate NGC 6652B
+Paduano, Alessandro; Bahramian, Arash; Miller-Jones, James C. A.;
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.4107P
 
-A giant planet candidate transiting a white dwarf
-Vanderburg, Andrew; Rappaport, Saul A.; Xu, Siyi; Crossfield, Ian J.
-Nature - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020Natur.585..363V
+The GOGREEN survey: dependence of galaxy properties on halo mass at z > 1 and implications for environmental quenching
+Reeves, Andrew M. M.; Balogh, Michael L.; van der Burg, Remco F. J.;
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.3364R
 
-WD1032 + 011, an inflated brown dwarf in an old eclipsing binary with a white dwarf
-Casewell, S. L.; Belardi, C.; Parsons, S. G.; Littlefair, S. P.;
-Monthly Notices of the Royal Astronomical Society - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3571C
+High-contrast observations of brown dwarf companion HR 2562 B with the vector Apodizing Phase Plate coronagraph
+Sutlieff, Ben J.; Bohn, Alexander J.; Birkby, Jayne L.; Kenworthy,
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.3224S
 
-Computational tools for the spectroscopic analysis of white dwarfs
-Chandra, Vedant; Hwang, Hsiang-Chih; Zakamska, Nadia L.; Budavári,
-Monthly Notices of the Royal Astronomical Society - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.2688C
+The relationship between gas and galaxies at z < 1 using the Q0107 quasar triplet
+Beckett, Alexander; Morris, Simon L.; Fumagalli, Michele; Bielby,
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2574B
 
-Ionized gas in the NGC 5253 supernebula: high spatial and spectral resolution observations with the JVLA and TEXES
-Beck, Sara C.; Lacy, John; Turner, Jean; Liu, Hauyu Baobab;
-Monthly Notices of the Royal Astronomical Society - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1675B
+Hamilton's Object - a clumpy galaxy straddling the gravitational caustic of a galaxy cluster: constraints on dark matter clumping
+Griffiths, Richard E.; Rudisel, Mitchell; Wagner, Jenny; Hamilton,
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.1595G
 
-NuSTAR observations of four nearby X-ray faint AGNs: low luminosity or heavy obscuration?
-Annuar, A.; Alexander, D. M.; Gandhi, P.; Lansbury, G. B.; Asmus, D.;
-Monthly Notices of the Royal Astronomical Society - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.497..229A
+The Pristine survey - XII. Gemini-GRACES chemo-dynamical study of newly discovered extremely metal-poor stars in the Galaxy
+Kielty, Collin L.; Venn, Kim A.; Sestito, Federico; Starkenburg,
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.1438K
 
-Temporal variation of the 3-micron hydrocarbon emissions at the 8-micron north polar hot spot of Jupiter: Comparison with solar wind activity
-Kim, Sang Joon; Sim, Chae Kyung; Geballe, Thomas R.; Yung, Yuk L.;
-Icarus - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020Icar..34813852K
+The ultraviolet luminosity function of star-forming galaxies between redshifts of 0.6 and 1.2
+Page, M. J.; Dwelly, T.; McHardy, I.; Seymour, N.; Mason, K. O.;
+Monthly Notices of the Royal Astronomical Society - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.506..473P
 
-Intermediate-mass Stars Become Magnetic White Dwarfs
-Caiazzo, Ilaria; Heyl, Jeremy; Richer, Harvey; Cummings, Jeffrey;
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..14C
+Spatially Resolving the Kinematics of the ≲100 μas Quasar Broad-line Region Using Spectroastrometry. II. The First Tentative Detection in a Luminous Quasar at z = 2.3
+Bosco, Felix; Hennawi, Joseph F.; Stern, Jonathan; Pott, Jörg-Uwe
+The Astrophysical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...919...31B
 
-The Abundance Pattern of α Elements in the Triangulum-Andromeda Overdensity
-Silva, J. V. Sales; Cunha, K.; Perottoni, H. D.; Rocha-Pinto, H. J.;
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...901...27S
+The Discovery of Two LISA Sources within 0.5 kpc
+Kilic, Mukremin; Brown, Warren R.; Bédard, A.; Kosakowski, Alekzander
+The Astrophysical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...918L..14K
 
-Possible Time Correlation between Jet Ejection and Mass Accretion for RW Aur A
-Takami, Michihiro; Beck, Tracy L.; Schneider, P. Christian; Günther,
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...901...24T
+Fast-transient Searches in Real Time with ZTFReST: Identification of Three Optically Discovered Gamma-Ray Burst Afterglows and New Constraints on the Kilonova Rate
+Andreoni, Igor; Coughlin, Michael W.; Kool, Erik C.; Kasliwal, Mansi
+The Astrophysical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...918...63A
 
-Resolving Decades of Periodic Spirals from the Wolf-Rayet Dust Factory WR 112
-Lau, Ryan M.; Hankins, Matthew J.; Han, Yinuo; Endo, Izumi; Moffat,
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...900..190L
+Dissecting the Strong-lensing Galaxy Cluster MS 0440.5+0204. II. New Optical Spectroscopic Observations in a Wider Area and Cluster Dynamical State
+Carrasco, Eleazar R.; Verdugo, Tomás; Motta, Verónica; Foëx, Gael;
+The Astrophysical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...918...61C
 
-Optical Study of PKS B1322-110, the Intra-hour Variable Radio Source
-Madrid, Juan P.; Tuntsov, Artem V.; Schirmer, Mischa; Walker, Mark
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...900..169M
+Measuring and Replicating the 1-20 μm Energy Distributions of the Coldest Brown Dwarfs: Rotating, Turbulent, and Nonadiabatic Atmospheres
+Leggett, S. K.; Tremblin, Pascal; Phillips, Mark W.; Dupuy, Trent J.;
+The Astrophysical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...918...11L
 
-High-resolution Infrared Spectroscopy of Hot Molecular Gas in AFGL 2591 and AFGL 2136: Accretion in the Inner Regions of Disks around Massive Young Stellar Objects
-Barr, Andrew G.; Boogert, Adwin; DeWitt, Curtis N.; Montiel, Edward;
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...900..104B
+Hunting for Planetary Nebulae toward the Galactic Center
+Hong, Jihye; Simpson, Janet P.; An, Deokkeun; Cotera, Angela S.;
+The Astronomical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...93H
 
-SCUBA2 High Redshift Bright Quasar Survey: Far-infrared Properties and Weak-line Features
-Li, Qiong; Wang, Ran; Fan, Xiaohui; Wu, Xue-Bing; Jiang, Linhua;
-The Astrophysical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...900...12L
+TOI-1231 b: A Temperate, Neptune-sized Planet Transiting the Nearby M3 Dwarf NLTT 24399
+Burt, Jennifer A.; Dragomir, Diana; Mollière, Paul; Youngblood,
+The Astronomical Journal - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...87B
 
-On the Chemical Abundance of HR 8799 and the Planet c
-Wang, Ji; Wang, Jason J.; Ma, Bo; Chilcote, Jeffrey; Ertel, Steve;
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..150W
+TESS and HARPS reveal two sub-Neptunes around TOI 1062
+Otegi, J. F.; Bouchy, F.; Helled, R.; Armstrong, D. J.; Stalport, M.;
+Astronomy and Astrophysics - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...653A.105O
 
-Infrared Observations of 2I/Borisov near Perihelion
-Lee, Chien-Hsiu; Lin, Hsing-Wen; Chen, Ying-Tung; Yen, Sheng-Feng
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..132L
+A large sub-Neptune transiting the thick-disk M4 V TOI-2406
+Wells, R. D.; Rackham, B. V.; Schanche, N.; Petrucci, R.; Gómez
+Astronomy and Astrophysics - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...653A..97W
 
-The First Habitable-zone Earth-sized Planet from TESS. II. Spitzer Confirms TOI-700 d
-Rodriguez, Joseph E.; Vanderburg, Andrew; Zieba, Sebastian;
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..117R
+TOI-674b: An oasis in the desert of exo-Neptunes transiting a nearby M dwarf
+Murgas, F.; Astudillo-Defru, N.; Bonfils, X.; Crossfield, I.;
+Astronomy and Astrophysics - 09/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...653A..60M
 
-The First Habitable-zone Earth-sized Planet from TESS. I. Validation of the TOI-700 System
-Gilbert, Emily A.; Barclay, Thomas; Schlieder, Joshua E.; Quintana,
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..116G
+No Activity among 13 Centaurs Discovered in the Pan-STARRS1 Detection Database
+Lilly, Eva; Hsieh, Henry; Bauer, James; Steckloff, Jordan; Jevčák,
+The Planetary Science Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..155L
 
-A High Angular Resolution Survey of Massive Stars in Cygnus OB2: JHK Adaptive Optics Results from the Gemini Near-Infrared Imager
-Caballero-Nieves, S. M.; Gies, D. R.; Baines, E. K.; Bouchez, A. H.;
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..115C
+Ultra-short-period Planets in K2. III. Neighbors are Common with 13 New Multiplanet Systems and 10 Newly Validated Planets in Campaigns 0-8 and 10
+Adams, Elisabeth R.; Jackson, Brian; Johnson, Samantha; Ciardi, David
+The Planetary Science Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..152A
 
-HD 191939: Three Sub-Neptunes Transiting a Sun-like Star Only 54 pc Away
-Badenas-Agusti, Mariona; Günther, Maximilian N.; Daylan, Tansu;
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..113B
+ALMA Lensing Cluster Survey: a strongly lensed multiply imaged dusty system at z ≥ 6
+Laporte, N.; Zitrin, A.; Ellis, R. S.; Fujimoto, S.; Brammer, G.;
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4838L
 
-KELT-25 b and KELT-26 b: A Hot Jupiter and a Substellar Companion Transiting Young A Stars Observed by TESS
-Rodríguez Martínez, Romy; Gaudi, B. Scott; Rodriguez, Joseph E.;
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..111R
+Hot planets around cool stars - two short-period mini-Neptunes transiting the late K-dwarf TOI-1260
+Georgieva, I. Y.; Persson, C. M.; Barragán, O.; Nowak, G.; Fridlund,
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4684G
 
-Characterization of the Atmosphere of Super-Earth 55 Cancri e Using High-resolution Ground-based Spectroscopy
-Jindal, Abhinav; de Mooij, Ernst J. W.; Jayawardhana, Ray; Deibert,
-The Astronomical Journal - 09/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160..101J
+Probing the He II re-Ionization ERa via Absorbing C IV Historical Yield (HIERACHY) I: A strong outflow from a z   4.7 quasar
+Yu, Xiaodi; Li, Jiang-Tao; Qu, Zhijie; Roederer, Ian U.; Bregman,
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4444Y
 
-Ionized and hot molecular outflows in the inner 500 pc of NGC 1275
-Riffel, Rogemar A.; Storchi-Bergmann, Thaisa; Zakamska, Nadia L.;
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4857R
+Mass calibration of distant SPT galaxy clusters through expanded weak-lensing follow-up observations with HST, VLT, & Gemini-South
+Schrabback, T.; Bocquet, S.; Sommer, M.; Zohren, H.; van den Busch,
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3923S
 
-Revealing the intermediate-mass black hole at the heart of the dwarf galaxy NGC 404 with sub-parsec resolution ALMA observations
-Davis, Timothy A.; Nguyen, Dieu D.; Seth, Anil C.; Greene, Jenny E.;
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4061D
+TOI-220 b: a warm sub-Neptune discovered by TESS
+Hoyer, S.; Gandolfi, D.; Armstrong, D. J.; Deleuil, M.; Acuña, L.; de
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3361H
 
-Weak lensing of Type Ia Supernovae from the Dark Energy Survey
-Macaulay, E.; Bacon, D.; Nichol, R. C.; Davis, T. M.; Elvin-Poole,
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4051M
+Probing cosmic dawn: Ages and star formation histories of candidate z ≥ 9 galaxies
+Laporte, N.; Meyer, R. A.; Ellis, R. S.; Robertson, B. E.; Chisholm,
+Monthly Notices of the Royal Astronomical Society - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3336L
 
-The distribution of dark matter and gas spanning 6 Mpc around the post-merger galaxy cluster MS 0451-03
-Tam, Sut-Ieng; Jauzac, Mathilde; Massey, Richard; Harvey, David;
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4032T
+The Palomar Transient Factory Core-collapse Supernova Host-galaxy Sample. I. Host-galaxy Distribution Functions and Environment Dependence of Core-collapse Supernovae
+Schulze, Steve; Yaron, Ofer; Sollerman, Jesper; Leloudas, Giorgos;
+The Astrophysical Journal Supplement Series - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJS..255...29S
 
-A measurement of the Hubble constant from Type II supernovae
-de Jaeger, T.; Stahl, B. E.; Zheng, W.; Filippenko, A. V.; Riess, A.
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3402D
+High-resolution Extinction Map in the Direction of the Strongly Obscured Bulge Fossil Fragment Liller 1
+Pallanca, Cristina; Ferraro, Francesco R.; Lanzoni, Barbara;
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...917...92P
 
-Dynamical masses of brightest cluster galaxies I: stellar velocity anisotropy and mass-to-light ratios
-Loubser, S. I.; Babul, A.; Hoekstra, H.; Bahé, Y. M.; O'Sullivan, E.;
-Monthly Notices of the Royal Astronomical Society - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1857L
+A High-resolution View of Fast Radio Burst Host Environments
+Mannings, Alexandra G.; Fong, Wen-fai; Simha, Sunil; Prochaska, J.
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...917...75M
 
-Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR
-Fletcher, L. N.; Orton, G. S.; Greathouse, T. K.; Rogers, J. H.;
-Journal of Geophysical Research (Planets) - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020JGRE..12506399F
+Multiwavelength Evidence for a New Flare-mode Transitional Millisecond Pulsar
+Strader, Jay; Swihart, Samuel J.; Urquhart, Ryan; Chomiuk, Laura;
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...917...69S
 
-A Distant Fast Radio Burst Associated with Its Host Galaxy by the Very Large Array
-Law, Casey J.; Butler, Bryan J.; Prochaska, J. Xavier; Zackay, Barak;
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...899..161L
+Characterization of HD 206893 B from Near- to Thermal-infrared
+Meshkat, Tiffany; Gao, Peter; Lee, Eve J.; Mawet, Dimitri; Choquet,
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...917...62M
 
-Dual Supermassive Black Holes at Close Separation Revealed by the Hyper Suprime-Cam Subaru Strategic Program
-Silverman, John D.; Tang, Shenli; Lee, Khee-Gan; Hartwig, Tilman;
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...899..154S
+The Impact of Low-luminosity AGNs on Their Host Galaxies: A Radio and Optical Investigation of the Kiloparsec-scale Outflow in MaNGA 1-166919
+Al Yazeedi, Aisha; Katkov, Ivan Yu.; Gelfand, Joseph D.; Wylezalek,
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...916..102A
 
-Discovery of the Optical Afterglow and Host Galaxy of Short GRB 181123B at z = 1.754: Implications for Delay Time Distributions
-Paterson, K.; Fong, W.; Nugent, A.; Escorial, A. Rouco; Leja, J.;
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898L..32P
+Probing Kilonova Ejecta Properties Using a Catalog of Short Gamma-Ray Burst Observations
+Rastinejad, J. C.; Fong, W.; Kilpatrick, C. D.; Paterson, K.; Tanvir,
+The Astrophysical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...916...89R
 
-The Rise and Fall of ASASSN-18pg: Following a TDE from Early to Late Times
-Holoien, Thomas W. -S.; Auchettl, Katie; Tucker, Michael A.; Shappee,
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898..161H
+TOI-1634 b: An Ultra-short-period Keystone Planet Sitting inside the M-dwarf Radius Valley
+Cloutier, Ryan; Charbonneau, David; Stassun, Keivan G.; Murgas,
+The Astronomical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...79C
 
-Emergence of an Ultrared, Ultramassive Galaxy Cluster Core at z = 4
-Long, Arianna S.; Cooray, Asantha; Ma, Jingzhe; Casey, Caitlin M.;
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898..133L
+Speckle Observations of TESS Exoplanet Host Stars. II. Stellar Companions at 1-1000 au and Implications for Small Planet Detection
+Lester, Kathryn V.; Matson, Rachel A.; Howell, Steve B.; Furlan,
+The Astronomical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...75L
 
-No Redshift Evolution in the Broad-line-region Metallicity up to z = 7.54: Deep Near-infrared Spectroscopy of ULAS J1342+0928
-Onoue, Masafusa; Bañados, Eduardo; Mazzucchelli, Chiara; Venemans,
-The Astrophysical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898..105O
+TKS X: Confirmation of TOI-1444b and a Comparative Analysis of the Ultra-short-period Planets with Hot Neptunes
+Dai, Fei; Howard, Andrew W.; Batalha, Natalie M.; Beard, Corey;
+The Astronomical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...62D
 
-Multiband Polarimetric Imaging of HR 4796A with the Gemini Planet Imager
-Arriaga, Pauline; Fitzgerald, Michael P.; Duchêne, Gaspard; Kalas,
-The Astronomical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...79A
+TOI-2076 and TOI-1807: Two Young, Comoving Planetary Systems within 50 pc Identified by TESS that are Ideal Candidates for Further Follow Up
+Hedges, Christina; Hughes, Alex; Zhou, George; David, Trevor J.;
+The Astronomical Journal - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...54H
 
-Observations of Disequilibrium CO Chemistry in the Coldest Brown Dwarfs
-Miles, Brittany E.; Skemer, Andrew J. I.; Morley, Caroline V.;
-The Astronomical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...63M
+Mapping the zonal winds of Jupiter's stratospheric equatorial oscillation
+Benmahi, B.; Cavalié, T.; Greathouse, T. K.; Hue, V.; Giles, R.;
+Astronomy and Astrophysics - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...652A.125B
 
-A Wide and Deep Exploration of Radio Galaxies with Subaru HSC (WERGS). III. Discovery of a z = 4.72 Radio Galaxy with the Lyman Break Technique
-Yamashita, Takuji; Nagao, Tohru; Ikeda, Hiroyuki; Toba, Yoshiki;
-The Astronomical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...60Y
+The Galaxy Activity, Torus, and Outflow Survey (GATOS). II. Torus and polar dust emission in nearby Seyfert galaxies
+Alonso-Herrero, A.; García-Burillo, S.; Hönig, S. F.; García-Bernete,
+Astronomy and Astrophysics - 08/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...652A..99A
 
-Visual Orbits of Spectroscopic Binaries with the CHARA Array. III. HD 8374 and HD 24546
-Lester, Kathryn V.; Fekel, Francis C.; Muterspaugh, Matthew; Gies,
-The Astronomical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...58L
+Powerful winds in high-redshift obscured and red quasars
+Vayner, Andrey; Zakamska, Nadia L.; Riffel, Rogemar A.; Alexandroff,
+Monthly Notices of the Royal Astronomical Society - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.4445V
 
-New Candidates for Planetary-mass Brown Dwarfs in IC 348
-Luhman, K. L.; Hapich, C. J.
-The Astronomical Journal - 08/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...57L
+The AGNIFS survey: distribution and excitation of the hot molecular and ionized gas in the inner kpc of nearby AGN hosts
+Riffel, R. A.; Storchi-Bergmann, T.; Riffel, R.; Bianchin, M.;
+Monthly Notices of the Royal Astronomical Society - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3265R
 
-A remnant planetary core in the hot-Neptune desert
-Armstrong, David J.; Lopez, Théo A.; Adibekyan, Vardan; Booth,
-Nature - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020Natur.583...39A
+Multiepoch Spectroscopy of Mg II Broad Absorption Line Transitions
+Yi, Weimin; Timlin, John
+The Astrophysical Journal Supplement Series - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJS..255...12Y
 
-WASP-4 transit timing variation from a comprehensive set of 129 transits
-Baluev, R. V.; Sokov, E. N.; Hoyer, S.; Huitson, C.; da Silva, José
-Monthly Notices of the Royal Astronomical Society - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496L..11B
+Spatial Variation in Strong Line Ratios and Physical Conditions in Two Strongly Lensed Galaxies at z 1.4
+Florian, Michael K.; Rigby, Jane R.; Acharyya, Ayan; Sharon, Keren;
+The Astrophysical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...916...50F
 
-DES16C3cje: A low-luminosity, long-lived supernova
-Gutiérrez, C. P.; Sullivan, M.; Martinez, L.; Bersten, M. C.;
-Monthly Notices of the Royal Astronomical Society - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...95G
+The Black Hole Mass of NGC 4151 from Stellar Dynamical Modeling
+Roberts, Caroline A.; Bentz, Misty C.; Vasiliev, Eugene; Valluri,
+The Astrophysical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...916...25R
 
-Studying Type II supernovae as cosmological standard candles using the Dark Energy Survey
-de Jaeger, T.; Galbany, L.; González-Gaitán, S.; Kessler, R.;
-Monthly Notices of the Royal Astronomical Society - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4860D
+Dynamical Modeling of the C IV Broad Line Region of the z = 2.805 Multiply Imaged Quasar SDSS J2222+2745
+Williams, Peter R.; Treu, Tommaso; Dahle, Håkon; Valenti, Stefano;
+The Astrophysical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...915L...9W
 
-Constraints on the circumburst environments of short gamma-ray bursts
-O'Connor, Brendan; Beniamini, Paz; Kouveliotou, Chryssa
-Monthly Notices of the Royal Astronomical Society - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4782O
+New Candidate Extreme T Subdwarfs from the Backyard Worlds: Planet 9 Citizen Science Project
+Meisner, Aaron M.; Schneider, Adam C.; Burgasser, Adam J.; Marocco,
+The Astrophysical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...915..120M
 
-A New Class of Roche Lobe-filling Hot Subdwarf Binaries
-Kupfer, Thomas; Bauer, Evan B.; Burdge, Kevin B.; Roestel, Jan van;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898L..25K
+A Deep Polarimetric Study of the Asymmetrical Debris Disk HD 106906
+Crotts, Katie A.; Matthews, Brenda C.; Esposito, Thomas M.; Duchêne,
+The Astrophysical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...915...58C
 
-The 100 pc White Dwarf Sample in the SDSS Footprint
-Kilic, Mukremin; Bergeron, P.; Kosakowski, Alekzander; Brown, Warren
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898...84K
+ACCESS and LRG-BEASTS: A Precise New Optical Transmission Spectrum of the Ultrahot Jupiter WASP-103b
+Kirk, James; Rackham, Benjamin V.; MacDonald, Ryan J.; López-Morales,
+The Astronomical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...34K
 
-Revisiting the Impact of Dust Production from Carbon-rich Wolf-Rayet Binaries
-Lau, Ryan M.; Eldridge, J. J.; Hankins, Matthew J.; Lamberts, Astrid;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898...74L
+NGC 6845 Revisited: Stellar Kinematics on the Early Type Member Galaxies
+Gimeno, German; Díaz, Ruben J.; Dottori, Horacio; Rodrigues, Irapuan;
+The Astronomical Journal - 07/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....162...31G
 
-Multiband GPI Imaging of the HR 4796A Debris Disk
-Chen, Christine; Mazoyer, Johan; Poteet, Charles A.; Ren, Bin;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898...55C
+Col-OSSOS: The Distinct Color Distribution of Single and Binary Cold Classical KBOs
+Fraser, Wesley C.; Benecchi, Susan D.; Kavelaars, J. J.; Marsset,
+The Planetary Science Journal - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...90F
 
-The R-Process Alliance: A Very Metal-poor, Extremely r-process-enhanced Star with [Eu/Fe] = + 2.2, and the Class of r-III Stars
-Cain, Madelyn; Frebel, Anna; Ji, Alexander P.; Placco, Vinicius M.;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...898...40C
+Gauging the effect of supermassive black holes feedback on quasar host galaxies
+Dall'Agnol de Oliveira, B.; Storchi-Bergmann, T.; Kraemer, S. B.;
+Monthly Notices of the Royal Astronomical Society - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3890D
 
-Pōniuā'ena: A Luminous z = 7.5 Quasar Hosting a 1.5 Billion Solar Mass Black Hole
+A cool and inflated progenitor candidate for the Type Ib supernova 2019yvr at 2.6 yr before explosion
+Kilpatrick, Charles D.; Drout, Maria R.; Auchettl, Katie;
+Monthly Notices of the Royal Astronomical Society - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2073K
+
+On the AGN nature of broad balmer emission in four low-redshift metal-poor galaxies
+Burke, Colin J.; Liu, Xin; Chen, Yu-Ching; Shen, Yue; Guo, Hengxiao
+Monthly Notices of the Royal Astronomical Society - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..543B
+
+The most massive white dwarfs in the solar neighbourhood
+Kilic, Mukremin; Bergeron, P.; Blouin, Simon; Bédard, A.
+Monthly Notices of the Royal Astronomical Society - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.5397K
+
+Gemini/GMOS optical transmission spectroscopy of WASP-121b: signs of variability in an ultra-hot Jupiter?
+Wilson, Jamie; Gibson, Neale P.; Lothringer, Joshua D.; Sing, David
+Monthly Notices of the Royal Astronomical Society - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.4787W
+
+Strong Near-infrared Carbon Absorption in the Transitional Type Ia SN 2015bp
+Wyatt, S. D.; Sand, D. J.; Hsiao, E. Y.; Burns, C. R.; Valenti, S.;
+The Astrophysical Journal - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...914...57W
+
+SN 2019yvq Does Not Conform to SN Ia Explosion Models
+Tucker, M. A.; Ashall, C.; Shappee, B. J.; Vallely, P. J.; Kochanek,
+The Astrophysical Journal - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...914...50T
+
+Multiwavelength Follow-up of FRB180309
+Aggarwal, Kshitij; Burke-Spolaor, Sarah; Tejos, Nicolas; Pignata,
+The Astrophysical Journal - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...913...78A
+
+Observations with the Differential Speckle Survey Instrument. X. Preliminary Orbits of K-dwarf Binaries and Other Stars
+Horch, Elliott P.; Broderick, Kyle G.; Casetti-Dinescu, Dana I.;
+The Astronomical Journal - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..295H
+
+Evidence for differentiation of the most primitive small bodies
+Carry, B.; Vernazza, P.; Vachier, F.; Neveu, M.; Berthier, J.; Hanuš,
+Astronomy and Astrophysics - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...650A.129C
+
+The GOGREEN survey: Internal dynamics of clusters of galaxies at redshift 0.9-1.4
+Biviano, A.; van der Burg, R. F. J.; Balogh, M. L.; Munari, E.;
+Astronomy and Astrophysics - 06/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...650A.105B
+
+Observational insights on the origin of giant low surface brightness galaxies
+Saburova, Anna S.; Chilingarian, Igor V.; Kasparova, Anastasia V.;
+Monthly Notices of the Royal Astronomical Society - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.503..830S
+
+Conditions in the WR 140 wind-collision region revealed by the 1.083-μ m He I line profile
+Williams, Peredur M.; Varricatt, Watson P.; Chené, André-Nicolas;
+Monthly Notices of the Royal Astronomical Society - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.503..643W
+
+Principal component analysis tomography in near-infrared integral field spectroscopy of young stellar objects - I. Revisiting the high-mass protostar W33A
+Navarete, F.; Damineli, A.; Steiner, J. E.; Blum, R. D.
+Monthly Notices of the Royal Astronomical Society - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.503..270N
+
+Targeting Bright Metal-poor Stars in the Disk and Halo Systems of the Galaxy
+Limberg, Guilherme; Santucci, Rafael M.; Rossi, Silvia; Shank, Derek;
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...913...11L
+
+SPLUS J210428.01-004934.2: An Ultra Metal-poor Star Identified from Narrowband Photometry
+Placco, Vinicius M.; Roederer, Ian U.; Lee, Young Sun; Almeida-
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912L..32P
+
+Relics of Supermassive Black Hole Seeds: The Discovery of an Accreting Black Hole in an Optically Normal, Low Metallicity Dwarf Galaxy
+Cann, Jenna M.; Satyapal, Shobita; Rothberg, Barry; Canalizo,
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912L...2C
+
+Massive White Dwarfs in Young Star Clusters
+Richer, Harvey B.; Caiazzo, Ilaria; Du, Helen; Grondin, Steffani;
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912..165R
+
+GRB 180418A: A Possibly Short Gamma-Ray Burst with a Wide-angle Outflow in a Faint Host Galaxy
+Rouco Escorial, A.; Fong, W.; Veres, P.; Laskar, T.; Lien, A.;
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912...95R
+
+The HST See Change Program. I. Survey Design, Pipeline, and Supernova Discoveries
+Hayden, Brian; Rubin, David; Boone, Kyle; Aldering, Greg; Nordin,
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912...87H
+
+The Interstellar Medium toward the Galactic Center Source 2MASS J17470898-2829561
+Geballe, T. R.; Pendleton, Yvonne; Chiar, Jean; Tielens, Alexander G.
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912...47G
+
+A Large Fraction of Hydrogen-rich Supernova Progenitors Experience Elevated Mass Loss Shortly Prior to Explosion
+Bruch, Rachel J.; Gal-Yam, Avishay; Schulze, Steve; Yaron, Ofer;
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912...46B
+
+Blow-away in the Extreme Low-mass Starburst Galaxy Pox 186
+Eggen, Nathan R.; Scarlata, Claudia; Skillman, Evan; Jaskot, Anne
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912...12E
+
+CGM<SUP>2</SUP> I: The Extent of the Circumgalactic Medium Traced by Neutral Hydrogen
+Wilde, Matthew C.; Werk, Jessica K.; Burchett, Joseph N.; Prochaska,
+The Astrophysical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...912....9W
+
+The Detection and Characterization of Be+sdO Binaries from HST/STIS FUV Spectroscopy
+Wang, Luqian; Gies, Douglas R.; Peters, Geraldine J.; Götberg, Ylva;
+The Astronomical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..248W
+
+Weather on Other Worlds. V. The Three Most Rapidly Rotating Ultra-cool Dwarfs
+Tannock, Megan E.; Metchev, Stanimir; Heinze, Aren; Miles-Páez, Paulo
+The Astronomical Journal - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..224T
+
+Core-collapse supernova subtypes in luminous infrared galaxies
+Kankare, E.; Efstathiou, A.; Kotak, R.; Kool, E. C.; Kangas, T.;
+Astronomy and Astrophysics - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...649A.134K
+
+A KMOS survey of the nuclear disk of the Milky Way. I. Survey design and metallicities
+Fritz, T. K.; Patrick, L. R.; Feldmeier-Krause, A.; Schödel, R.;
+Astronomy and Astrophysics - 05/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...649A..83F
+
+The Reactivation of Main-belt Comet 259P/Garradd (P/2008 R1)
+Hsieh, Henry H.; Ishiguro, Masateru; Knight, Matthew M.; Moskovitz,
+The Planetary Science Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...62H
+
+Contemporaneous Multiwavelength and Precovery Observations of the Active Centaur P/2019 LD2 (ATLAS)
+Kareta, Theodore; Woodney, Laura M.; Schambeau, Charles; Fernandez,
+The Planetary Science Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...48K
+
+Hidden in plain sight: a double-lined white dwarf binary 26 pc away and a distant cousin
+Kilic, Mukremin; Bédard, A.; Bergeron, P.
+Monthly Notices of the Royal Astronomical Society - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.4972K
+
+A hot mini-Neptune in the radius valley orbiting solar analogue HD 110113
+Osborn, H. P.; Armstrong, D. J.; Adibekyan, V.; Collins, K. A.;
+Monthly Notices of the Royal Astronomical Society - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.4842O
+
+TOI-257b (HD 19916b): a warm sub-saturn orbiting an evolved F-type star
+Addison, Brett C.; Wright, Duncan J.; Nicholson, Belinda A.; Cale,
+Monthly Notices of the Royal Astronomical Society - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3704A
+
+Optical and near-infrared observations of the SPT2349-56 proto-cluster core at z = 4.3
+Rotermund, K. M.; Chapman, S. C.; Phadke, K. A.; Hill, R.; Pass, E.;
+Monthly Notices of the Royal Astronomical Society - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.1797R
+
+The orbit of asteroid (317) Roxane's satellite Olympias from Gemini, Keck, VLT and the SOR, and (22) Kalliope's Linus from the SOR
+Drummond, Jack D.; Merline, W. J.; Carry, B.; Conrad, A.; Tamblyn,
+Icarus - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021Icar..35814275D
+
+Evidence of Extended Emission in GRB 181123B and Other High-redshift Short GRBs
+Dichiara, S.; Troja, E.; Beniamini, P.; O'Connor, B.; Moss, M.; Lien,
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..28D
+
+Enhanced X-Ray Emission from the Most Radio-powerful Quasar in the Universe's First Billion Years
+Connor, Thomas; Bañados, Eduardo; Stern, Daniel; Carilli, Chris;
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911..120C
+
+Assessing the Stellar Population and the Environment of an H II Region on the Far Side of the Galaxy
+Chené, André-Nicolas; Benjamin, Robert A.; Ramírez-Alegría,
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911...91C
+
+Near-infrared Coronal Line Observations of Dwarf Galaxies Hosting AGN-driven Outflows
+Bohn, Thomas; Canalizo, Gabriela; Veilleux, Sylvain; Liu, Weizhe
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911...70B
+
+The Black Hole Mass of the z = 2.805 Multiply Imaged Quasar SDSS J2222+2745 from Velocity-resolved Time Lags of the C IV Emission Line
+Williams, Peter R.; Treu, Tommaso; Dahle, Håkon; Valenti, Stefano;
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911...64W
+
+The Hawaii Infrared Parallax Program. V. New T-dwarf Members and Candidate Members of Nearby Young Moving Groups
+Zhang, Zhoujian; Liu, Michael C.; Best, William M. J.; Dupuy, Trent
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...911....7Z
+
+RELICS: Properties of z ≥ 5.5 Galaxies Inferred from Spitzer and Hubble Imaging, Including A Candidate z ∼ 6.8 Strong [O III] emitter
+Strait, Victoria; Bradač, Maruša; Coe, Dan; Lemaux, Brian C.;
+The Astrophysical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...910..135S
+
+The Stellar Content of H72.97-69.39, a Potential Super Star Cluster in the Making
+Andersen, Morten; Zinnecker, Hans; Hirschauer, Alec S.; Nayak,
+The Astronomical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..206A
+
+TESS Delivers Five New Hot Giant Planets Orbiting Bright Stars from the Full-frame Images
+Rodriguez, Joseph E.; Quinn, Samuel N.; Zhou, George; Vanderburg,
+The Astronomical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..194R
+
+The Population of H II Regions in NGC 7020
+Dottori, Horacio; Díaz, Rubén J.; Grosbøl, Preben; Bueno, Amanda;
+The Astronomical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..191D
+
+Precise Dynamical Masses and Orbital Fits for beta Pic β and β Pic c
+Brandt, G. Mirek; Brandt, Timothy D.; Dupuy, Trent J.; Li, Yiting;
+The Astronomical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..179B
+
+TESS Hunt for Young and Maturing Exoplanets (THYME). V. A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association
+Tofflemire, Benjamin M.; Rizzuto, Aaron C.; Newton, Elisabeth R.;
+The Astronomical Journal - 04/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..171T
+
+A nearby transiting rocky exoplanet that is suitable for atmospheric investigation
+Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.; Ribas,
+Science - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T
+
+A tale of two mergers: constraints on kilonova detection in two short GRBs at z ∼ 0.5
+O'Connor, B.; Troja, E.; Dichiara, S.; Chase, E. A.; Ryan, G.; Cenko,
+Monthly Notices of the Royal Astronomical Society - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.1279O
+
+Planet Hunters TESS II: findings from the first two years of TESS
+Eisner, N. L.; Barragán, O.; Lintott, C.; Aigrain, S.; Nicholson, B.;
+Monthly Notices of the Royal Astronomical Society - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4669E
+
+New temperature and metallicity scale of cool giants from K-band spectra
+Ghosh, Supriyo; Ojha, D. K.; Ninan, J. P.
+Monthly Notices of the Royal Astronomical Society - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4596G
+
+Using optical spectroscopy to map the geometry and structure of the irradiated accretion discs in low-mass X-ray binaries: the pilot study of MAXI J0637-430
+Tetarenko, B. E.; Shaw, A. W.; Manrow, E. R.; Charles, P. A.; Miller,
+Monthly Notices of the Royal Astronomical Society - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3406T
+
+The Field Substellar Mass Function Based on the Full-sky 20 pc Census of 525 L, T, and Y Dwarfs
+Kirkpatrick, J. Davy; Gelino, Christopher R.; Faherty, Jacqueline K.;
+The Astrophysical Journal Supplement Series - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJS..253....7K
+
+Outflows, Shocks, and Coronal Line Emission in a Radio-selected AGN in a Dwarf Galaxy
+Molina, Mallory; Reines, Amy E.; Greene, Jenny E.; Darling, Jeremy;
+The Astrophysical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...910....5M
+
+A Restless Supermassive Black Hole in the Galaxy J0437+2456
+Pesce, Dominic W.; Seth, Anil C.; Greene, Jenny E.; Braatz, James A.;
+The Astrophysical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...909..141P
+
+The KMOS<SUP>3D</SUP> Survey: Investigating the Origin of the Elevated Electron Densities in Star-forming Galaxies at 1 ≲ z ≲ 3
+Davies, Rebecca L.; Förster Schreiber, N. M.; Genzel, R.; Shimizu, T.
+The Astrophysical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...909...78D
+
+Systematic Difference between Ionized and Molecular Gas Velocity Dispersions in z ∼ 1-2 Disks and Local Analogs
+Girard, M.; Fisher, D. B.; Bolatto, A. D.; Abraham, R.; Bassett, R.;
+The Astrophysical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...909...12G
+
+Constraining the Nature of the PDS 70 Protoplanets with VLTI/GRAVITY
+Wang, J. J.; Vigan, A.; Lacour, S.; Nowak, M.; Stolker, T.; De Rosa,
+The Astronomical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..148W
+
+Searching for Active Low-mass Stars in the CMa Star-forming Region: Multi-band Photometry with T80S
+Gregorio-Hetem, J.; Navarete, F.; Hetem, A.; Santos-Silva, T.; Galli,
+The Astronomical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..133G
+
+Speckle Imaging Characterization of Radial Velocity Exoplanet Systems
+Dalba, Paul A.; Kane, Stephen R.; Howell, Steve B.; Horch, Elliott
+The Astronomical Journal - 03/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161..123D
+
+Characterizing the Manx Candidate A/2018 V3
+Piro, Caroline; Meech, Karen J.; Bufanda, Erica; Kleyna, Jan T.;
+The Planetary Science Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...33P
+
+Surfaces of (Nearly) Dormant Comets and the Recent History of the Quadrantid Meteor Shower
+Kareta, Theodore; Hergenrother, Carl; Reddy, Vishnu; Harris, Walter
+The Planetary Science Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021PSJ.....2...31K
+
+Follow-up observations for IceCube-170922A: Detection of rapid near-infrared variability and intensive monitoring of TXS 0506+056
+Morokuma, Tomoki; Utsumi, Yousuke; Ohta, Kouji; Yamanaka, Masayuki;
+Publications of the Astronomical Society of Japan - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021PASJ...73...25M
+
+Chemical abundances in Seyfert galaxies - V. The discovery of shocked emission outside the AGN ionization axis
+Riffel, R. A.; Dors, O. L.; Armah, M.; Storchi-Bergmann, T.; Feltre,
+Monthly Notices of the Royal Astronomical Society - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501L..54R
+
+SN 2019muj - a well-observed Type Iax supernova that bridges the luminosity gap of the class
+Barna, Barnabás; Szalai, Tamás; Jha, Saurabh W.; Camacho-Neves,
+Monthly Notices of the Royal Astronomical Society - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.1078B
+
+The Hubble constant from eight time-delay galaxy lenses
+Denzel, Philipp; Coles, Jonathan P.; Saha, Prasenjit; Williams,
+Monthly Notices of the Royal Astronomical Society - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..784D
+
+Multiband light-curve analysis of the 40.5-min period eclipsing double-degenerate binary SDSS J082239.54+304857.19
+Kosakowski, Alekzander; Kilic, Mukremin; Brown, Warren
+Monthly Notices of the Royal Astronomical Society - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5098K
+
+Placing High-redshift Quasars in Perspective: A Catalog of Spectroscopic Properties from the Gemini Near Infrared Spectrograph-Distant Quasar Survey
+Matthews, Brandon M.; Shemmer, Ohad; Dix, Cooper; Brotherton, Michael
+The Astrophysical Journal Supplement Series - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJS..252...15M
+
+Near-infrared and Optical Observations of Type Ic SN 2020oi and Broad-lined Type Ic SN 2020bvc: Carbon Monoxide, Dust, and High-velocity Supernova Ejecta
+Rho, J.; Evans, A.; Geballe, T. R.; Banerjee, D. P. K.; Hoeflich, P.;
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908..232R
+
+A Long Stream of Metal-poor Cool Gas around a Massive Starburst Galaxy at z = 2.67
+Fu, Hai; Xue, R.; Prochaska, J. X.; Stockton, A.; Ponnada, S.; Lau,
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908..188F
+
+High-resolution Mid-infrared Spectroscopy of GV Tau N: Surface Accretion and Detection of NH<SUB>3</SUB> in a Young Protoplanetary Disk
+Najita, Joan R.; Carr, John S.; Brittain, Sean D.; Lacy, John H.;
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908..171N
+
+A Comparison of Rest-frame Ultraviolet and Optical Emission-line Diagnostics in the Lensed Galaxy SDSS J1723+3411 at Redshift z = 1.3293
+Rigby, J. R.; Florian, Michael; Acharyya, A.; Bayliss, Matthew;
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908..154R
+
+Optical Identification and Spectroscopy of Supernova Remnants in the Galaxy M51
+Winkler, P. Frank; Coffin, Sadie C.; Blair, William P.; Long, Knox
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908...80W
+
+Revealing the Accretion Physics of Supermassive Black Holes at Redshift z ∼ 7 with Chandra and Infrared Observations
+Wang, Feige; Fan, Xiaohui; Yang, Jinyi; Mazzucchelli, Chiara; Wu,
+The Astrophysical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...908...53W
+
+TESS Discovery of a Super-Earth and Three Sub-Neptunes Hosted by the Bright, Sun-like Star HD 108236
+Daylan, Tansu; Pinglé, Kartik; Wright, Jasmine; Günther, Maximilian
+The Astronomical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161...85D
+
+The TESS-Keck Survey. II. An Ultra-short-period Rocky Planet and Its Siblings Transiting the Galactic Thick-disk Star TOI-561
+Weiss, Lauren M.; Dai, Fei; Huber, Daniel; Brewer, John M.; Collins,
+The Astronomical Journal - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161...56W
+
+Investigating three Sirius-like systems with SPHERE
+Gratton, R.; D'Orazi, V.; Pacheco, T. A.; Zurlo, A.; Desidera, S.;
+Astronomy and Astrophysics - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...646A..61G
+
+Molecular remnant of Nova 1670 (CK Vulpeculae). II. A three-dimensional view of the gas distribution and velocity field
+Kamiński, T.; Steffen, W.; Bujarrabal, V.; Tylenda, R.; Menten, K.
+Astronomy and Astrophysics - 02/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...646A...1K
+
+New Observations with Gemini and GTC of the VHE Blazar KUV 00311-1938: About Its Redshift and Environment
+Pichel, A.; Donzelli, C.; Rosa-Gonzalez, D.; Fernandez Alonso, M.;
+Publications of the Astronomical Society of the Pacific - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021PASP..133a4102P
+
+AGN Jets and a Fanciful Trio of Black Holes in the Abell 85 Brightest Cluster Galaxy
+Madrid, Juan P.
+Publications of the Astronomical Society of the Pacific - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021PASP..133a4101M
+
+A hidden population of high-redshift double quasars unveiled by astrometry
+Shen, Yue; Chen, Yu-Ching; Hwang, Hsiang-Chih; Liu, Xin; Zakamska,
+Nature Astronomy - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021NatAs...5..569S
+
+A new class of fossil fragments from the hierarchical assembly of the Galactic bulge
+Ferraro, F. R.; Pallanca, C.; Lanzoni, B.; Crociati, C.; Dalessandro,
+Nature Astronomy - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021NatAs...5..311F
+
+Optical follow-up of the neutron star-black hole mergers S200105ae and S200115j
+Anand, Shreya; Coughlin, Michael W.; Kasliwal, Mansi M.; Bulla,
+Nature Astronomy - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021NatAs...5...46A
+
+Dynamical masses of brightest cluster galaxies - II. Constraints on the stellar IMF
+Loubser, S. I.; Hoekstra, H.; Babul, A.; Bahé, Y. M.; Donahue, M.
+Monthly Notices of the Royal Astronomical Society - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.4153L
+
+The GOGREEN and GCLASS surveys: first data release
+Balogh, Michael L.; van der Burg, Remco F. J.; Muzzin, Adam; Rudnick,
+Monthly Notices of the Royal Astronomical Society - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..358B
+
+A Luminous Quasar at Redshift 7.642
+Wang, Feige; Yang, Jinyi; Fan, Xiaohui; Hennawi, Joseph F.; Barth,
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...907L...1W
+
+The Early Discovery of SN 2017ahn: Signatures of Persistent Interaction in a Fast-declining Type II Supernova
+Tartaglia, L.; Sand, D. J.; Groh, J. H.; Valenti, S.; Wyatt, S. D.;
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...907...52T
+
+The Broadband Counterpart of the Short GRB 200522A at z = 0.5536: A Luminous Kilonova or a Collimated Outflow with a Reverse Shock?
+Fong, W.; Laskar, T.; Rastinejad, J.; Escorial, A. Rouco; Schroeder,
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...906..127F
+
+COOL-LAMPS. I. An Extraordinarily Bright Lensed Galaxy at Redshift 5.04
+Khullar, Gourav; Gozman, Katya; Lin, Jason J.; Martinez, Michael N.;
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...906..107K
+
+Supernova 2018cuf: A Type IIP Supernova with a Slow Fall from Plateau
+Dong, Yize; Valenti, S.; Bostroem, K. A.; Sand, D. J.; Andrews,
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...906...56D
+
+Strong Mg II and Fe II Absorbers at 2.2 < z < 6.0
+Zou, Siwei; Jiang, Linhua; Shen, Yue; Wu, Jin; Bañados, Eduardo; Fan,
+The Astrophysical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021ApJ...906...32Z
+
+Physical Parameters of the Multiplanet Systems HD 106315 and GJ 9827
+Kosiarek, Molly R.; Berardo, David A.; Crossfield, Ian J. M.; Laguna,
+The Astronomical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161...47K
+
+Identifying Bound Stellar Companions to Kepler Exoplanet Host Stars Using Speckle Imaging
+Colton, Nicole M.; Horch, Elliott P.; Everett, Mark E.; Howell, Steve
+The Astronomical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161...21C
+
+Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B
+Ward-Duong, K.; Patience, J.; Follette, K.; De Rosa, R. J.; Rameau,
+The Astronomical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161....5W
+
+Two Young Planetary Systems around Field Stars with Ages between 20 and 320 Myr from TESS
+Zhou, George; Quinn, Samuel N.; Irwin, Jonathan; Huang, Chelsea X.;
+The Astronomical Journal - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021AJ....161....2Z
+
+A planetary system with two transiting mini-Neptunes near the radius valley transition around the bright M dwarf TOI-776
+Luque, R.; Serrano, L. M.; Molaverdikhani, K.; Nixon, M. C.;
+Astronomy and Astrophysics - 01/2021
+https://ui.adsabs.harvard.edu/abs/2021A&A...645A..41L
+
+The Effects of Waves on the Meridional Thermal Structure of Jupiter's Stratosphere
+Cosentino, Richard G.; Greathouse, Thomas; Simon, Amy; Giles, Rohini;
+The Planetary Science Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020PSJ.....1...63C
+
+Planetary candidates transiting cool dwarf stars from campaigns 12 to 15 of K2
+Castro González, A.; Díez Alonso, E.; Menéndez Blanco, J.;
+Monthly Notices of the Royal Astronomical Society - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C
+
+Physical characterization of double asteroid (617) Patroclus from 2007/2012 mutual events observations
+Berthier, J.; Descamps, P.; Vachier, F.; Normand, J.; Maquet, L.;
+Icarus - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020Icar..35213990B
+
+The First Integral Field Unit Spectroscopic View of Shocked Cluster Galaxies
+Stroe, Andra; Hussaini, Maryam; Husemann, Bernd; Sobral, David;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905L..22S
+
+Integral Field Spectroscopy of Fast Outflows in Dwarf Galaxies with AGNs
+Liu, Weizhe; Veilleux, Sylvain; Canalizo, Gabriela; Rupke, David S.
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905..166L
+
+Kilonova Luminosity Function Constraints Based on Zwicky Transient Facility Searches for 13 Neutron Star Merger Triggers during O3
+Kasliwal, Mansi M.; Anand, Shreya; Ahumada, Tomás; Stein, Robert;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905..145K
+
+ZTF20aajnksq (AT 2020blt): A Fast Optical Transient at z ≍ 2.9 with No Detected Gamma-Ray Burst Counterpart
+Ho, Anna Y. Q.; Perley, Daniel A.; Beniamini, Paz; Cenko, S. Bradley;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905...98H
+
+SuperRAENN: A Semisupervised Supernova Photometric Classification Pipeline Trained on Pan-STARRS1 Medium-Deep Survey Supernovae
+Villar, V. Ashley; Hosseinzadeh, Griffin; Berger, Edo; Ntampaka,
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905...94V
+
+SQuIGG ěc{L} E Survey: Massive z ∼ 0.6 Post-starburst Galaxies Exhibit Flat Age Gradients
+Setton, David J.; Bezanson, Rachel; Suess, Katherine A.; Hunt, Qiana;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905...79S
+
+Serendipitous Discovery of Nine White Dwarfs with Gaseous Debris Disks
+Melis, Carl; Klein, Beth; Doyle, Alexandra E.; Weinberger, Alycia;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905...56M
+
+A Systematic Search of Zwicky Transient Facility Data for Ultracompact Binary LISA-detectable Gravitational-wave Sources
+Burdge, Kevin B.; Prince, Thomas A.; Fuller, Jim; Kaplan, David L.;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905...32B
+
+Five New Post-main-sequence Debris Disks with Gaseous Emission
+Dennihy, Erik; Xu, Siyi; Lai, Samuel; Bonsor, Amy; Clemens, J. C.;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...905....5D
+
+Constraining the Gravitational Lensing of z ≳ 6 Quasars from Their Proximity Zones
+Davies, Frederick B.; Wang, Feige; Eilers, Anna-Christina; Hennawi,
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904L..32D
+
+Near-infrared Spectroscopy of CK Vulpeculae: Revealing a Remarkably Powerful Blast from the Past
+Banerjee, D. P. K.; Geballe, T. R.; Evans, A.; Shahbandeh, M.;
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904L..23B
+
+Investigating the Effect of Galaxy Interactions on the Enhancement of Active Galactic Nuclei at 0.5 < z < 3.0
+Shah, Ekta A.; Kartaltepe, Jeyhan S.; Magagnoli, Christina T.; Cox,
+The Astrophysical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904..107S
+
+A Search for Polarized Thermal Emission from Directly Imaged Exoplanets and Brown Dwarf Companions to Nearby Stars
+Jensen-Clem, Rebecca; Millar-Blanchaer, Maxwell A.; van Holstein, Rob
+The Astronomical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020AJ....160..286J
+
+Establishing Earth's Minimoon Population through Characterization of Asteroid 2020 CD<SUB>3</SUB>
+Fedorets, Grigori; Micheli, Marco; Jedicke, Robert; Naidu, Shantanu
+The Astronomical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020AJ....160..277F
+
+First Cosmology Results using Supernovae Ia from the Dark Energy Survey: Survey Overview, Performance, and Supernova Spectroscopy
+Smith, M.; D'Andrea, C. B.; Sullivan, M.; Möller, A.; Nichol, R. C.;
+The Astronomical Journal - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020AJ....160..267S
+
+The CARMENES search for exoplanets around M dwarfs. LP 714-47 b (TOI 442.01): populating the Neptune desert
+Dreizler, S.; Crossfield, I. J. M.; Kossakowski, D.; Plavchan, P.;
+Astronomy and Astrophysics - 12/2020
+https://ui.adsabs.harvard.edu/abs/2020A&A...644A.127D
+
+The GOGREEN survey: post-infall environmental quenching fails to predict the observed age difference between quiescent field and cluster galaxies at z > 1
+Webb, Kristi; Balogh, Michael L.; Leja, Joel; van der Burg, Remco F.
+Monthly Notices of the Royal Astronomical Society - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.5317W
+
+Isotopic ratios in the red giant component of the recurrent nova T Coronae Borealis
+Pavlenko, Y. V.; Evans, A.; Banerjee, D. P. K.; Geballe, T. R.;
+Monthly Notices of the Royal Astronomical Society - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4853P
+
+STRIDES: Spectroscopic and photometric characterization of the environment and effects of mass along the line of sight to the gravitational lenses DES J0408-5354 and WGD 2038-4008
+Buckley-Geer, E. J.; Lin, H.; Rusu, C. E.; Poh, J.; Palmese, A.;
+Monthly Notices of the Royal Astronomical Society - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3241B
+
+An attempt to detect transient changes in Io's SO<SUB>2</SUB> and NaCl atmosphere
+Roth, Lorenz; Boissier, Jeremie; Moullet, Arielle; Sánchez-Monge,
+Icarus - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020Icar..35013925R
+
+The Distant, Galaxy Cluster Environment of the Short GRB 161104A at z ∼ 0.8 and a Comparison to the Short GRB Host Population
+Nugent, A. E.; Fong, W.; Dong, Y.; Palmese, A.; Leja, J.; Escorial,
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904...52N
+
+A New Candidate Transitional Millisecond Pulsar in the Subluminous Disk State: 4FGL J0407.7-5702
+Miller, Jessie M.; Swihart, Samuel J.; Strader, Jay; Urquhart, Ryan;
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904...49M
+
+The Spatially Resolved Bipolar Nebula of Sakurai's Object. II. Mapping the Planetary Nebula Expansion
+Hinkle, Kenneth H.; Joyce, Richard R.; Matheson, Thomas; Lacy, John
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904...34H
+
+Measurements of the z ∼ 6 Intergalactic Medium Optical Depth and Transmission Spikes Using a New z > 6.3 Quasar Sample
 Yang, Jinyi; Wang, Feige; Fan, Xiaohui; Hennawi, Joseph F.; Davies,
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...897L..14Y
-
-Hot Dust-obscured Galaxies with Excess Blue Light
-Assef, R. J.; Brightman, M.; Walton, D. J.; Stern, D.; Bauer, F. E.;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...897..112A
-
-Stellar Variability in a Forming Massive Star Cluster
-Cheng, Yu; Andersen, Morten; Tan, Jonathan
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...897...51C
-
-Dissecting the Strong-lensing Galaxy Cluster MS 0440.5+0204. I. The Mass Density Profile
-Verdugo, Tomás; Carrasco, Eleazar R.; Foëx, Gael; Motta, Verónica;
-The Astrophysical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...897....4V
-
-Refining the Census of the Upper Scorpius Association with Gaia
-Luhman, K. L.; Esplin, T. L.
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...44L
-
-Spitzer Variability Properties of Low-gravity L Dwarfs
-Vos, Johanna M.; Biller, Beth A.; Allers, Katelyn N.; Faherty,
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...38V
-
-Orbital Motion, Variability, and Masses in the T Tauri Triple System
-Schaefer, G. H.; Beck, Tracy L.; Prato, L.; Simon, M.
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...35S
-
-Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign
-Esposito, Thomas M.; Kalas, Paul; Fitzgerald, Michael P.; Millar-
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...24E
-
-TOI-1235 b: A Keystone Super-Earth for Testing Radius Valley Emergence Models around Early M Dwarfs
-Cloutier, Ryan; Rodriguez, Joseph E.; Irwin, Jonathan; Charbonneau,
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160...22C
-
-A Pair of TESS Planets Spanning the Radius Valley around the Nearby Mid-M Dwarf LTT 3780
-Cloutier, Ryan; Eastman, Jason D.; Rodriguez, Joseph E.; Astudillo-
-The Astronomical Journal - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....160....3C
-
-Global photometric properties of (162173) Ryugu
-Tatsumi, E.; Domingue, D.; Schröder, S.; Yokota, Y.; Kuroda, D.;
-Astronomy and Astrophysics - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...639A..83T
-
-High angular resolution study of the super star cluster population in IRAS 17138-1017
-Lam, N. T.; Gratadour, D.; Rouan, D.; Grosset, L.
-Astronomy and Astrophysics - 07/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...639A..28L
-
-Col-OSSOS: Compositional Homogeneity of Three Kuiper Belt Binaries
-Marsset, Michaël; Fraser, Wesley C.; Bannister, Michele T.; Schwamb,
-The Planetary Science Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020PSJ.....1...16M
-
-Formation of Orion fingers
-Dempsey, Ross; Zakamska, Nadia L.; Owen, James E.
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.1172D
-
-Astrometric orbits of spectral binary brown dwarfs - I. Massive T dwarf companions to 2M1059-21 and 2M0805+48
-Sahlmann, J.; Burgasser, A. J.; Bardalez Gagliuffi, D. C.; Lazorenko,
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.1136S
-
-STRIDES: a 3.9 per cent measurement of the Hubble constant from the strong lens system DES J0408-5354
-Shajib, A. J.; Birrer, S.; Treu, T.; Agnello, A.; Buckley-Geer, E.
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.6072S
-
-Luminous Type II supernovae for their low expansion velocities
-Rodríguez, Ó.; Pignata, G.; Anderson, J. P.; Moriya, T. J.;
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5882R
-
-Linking compact dwarf starburst galaxies in the RESOLVE survey to downsized blue nuggets
-Palumbo, Michael L., III; Kannappan, Sheila J.; Frazer, Elaine M.;
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4730P
-
-Polarization measurements of the polluted white dwarf G29-38
-Cotton, Daniel V.; Bailey, Jeremy; Pringle, J. E.; Sparks, William
-Monthly Notices of the Royal Astronomical Society - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4591C
-
-PSR J2030+4415's Remarkable Bow Shock, PWN, and Filament
-de Vries, Martijn; Romani, Roger W.
-The Astrophysical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...896L...7D
-
-A Significantly Neutral Intergalactic Medium Around the Luminous z = 7 Quasar J0252-0503
-Wang, Feige; Davies, Frederick B.; Yang, Jinyi; Hennawi, Joseph F.;
-The Astrophysical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...896...23W
-
-The Host Galaxies and Progenitors of Fast Radio Bursts Localized with the Australian Square Kilometre Array Pathfinder
-Bhandari, Shivani; Sadler, Elaine M.; Prochaska, J. Xavier; Simha,
-The Astrophysical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..37B
-
-A Survey for New Stars and Brown Dwarfs in the Ophiuchus Star-forming Complex
-Esplin, T. L.; Luhman, K. L.
-The Astronomical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..282E
-
-The Gemini Planet Imager View of the HD 32297 Debris Disk
-Duchêne, Gaspard; Rice, Malena; Hom, Justin; Zalesky, Joseph;
-The Astronomical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..251D
-
-HD 165054: An Astrometric Calibration Field for High-contrast Imagers in Baade's Window
-Nguyen, Meiji M.; De Rosa, Robert J.; Wang, Jason J.; Esposito,
-The Astronomical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..244N
-
-TESS Reveals HD 118203 b to be a Transiting Planet
-Pepper, Joshua; Kane, Stephen R.; Rodriguez, Joseph E.; Hinkel,
-The Astronomical Journal - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..243P
-
-The GOGREEN Survey: A deep stellar mass function of cluster galaxies at 1.0 < z < 1.4 and the complex nature of satellite quenching
-van der Burg, Remco F. J.; Rudnick, Gregory; Balogh, Michael L.;
-Astronomy and Astrophysics - 06/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...638A.112V
-
-A census of baryons in the Universe from localized fast radio bursts
-Macquart, J. -P.; Prochaska, J. X.; McQuinn, M.; Bannister, K. W.;
-Nature - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020Natur.581..391M
-
-Panchromatic properties of the extreme Fe II emitter PHL 1092
-Marinello, Murilo; Rodríguez-Ardila, Alberto; Marziani, Paola; Sigut,
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4187M
-
-Discovery of an unusually compact lensed Lyman-break galaxy from the Hyper Suprime-Cam Survey
-Jaelani, Anton T.; More, Anupreeta; Sonnenfeld, Alessandro; Oguri,
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.3156J
-
-Revealing the effects of galaxy interaction in the main galaxies of the southern group Arp 314
-Torres-Flores, S.; Amram, P.; Olave-Rojas, D.; Muñoz-Elgueta, N.;
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2785T
-
-Evidence for an accreting massive black hole in He 2-10 from adaptive optics integral field spectroscopy
-Riffel, Rogemar A.
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2004R
-
-Observation and confirmation of nine strong-lensing systems in Dark Energy Survey Year 1 data
-Nord, B.; Buckley-Geer, E.; Lin, H.; Kuropatkin, N.; Collett, T.;
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1308N
-
-Planet Hunters TESS I: TOI 813, a subgiant hosting a transiting Saturn-sized planet on an 84-day orbit
-Eisner, N. L.; Barragán, O.; Aigrain, S.; Lintott, C.; Miller, G.;
-Monthly Notices of the Royal Astronomical Society - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.494..750E
-
-Discovery and Rapid Follow-up Observations of the Unusual Type II SN 2018ivc in NGC 1068
-Bostroem, K. A.; Valenti, S.; Sand, D. J.; Andrews, J. E.; Van Dyk,
-The Astrophysical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...895...31B
-
-The Curious Case of PHL 293B: A Long-lived Transient in a Metal-poor Blue Compact Dwarf Galaxy
-Burke, Colin J.; Baldassare, Vivienne F.; Liu, Xin; Foley, Ryan J.;
-The Astrophysical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...894L...5B
-
-Strong Lensing Model of SPT-CL J0356-5337, a Major Merger Candidate at Redshift 1.0359
-Mahler, Guillaume; Sharon, Keren; Gladders, Michael D.; Bleem,
-The Astrophysical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...894..150M
-
-Disentangling Dust Components in SN 2010jl: The First 1400 Days
-Bevan, A. M.; Krafton, K.; Wesson, R.; Andrews, J. E.; Montiel, E.;
-The Astrophysical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...894..111B
-
-The H<SUB>2</SUB>O Spectrum of the Massive Protostar AFGL 2136 IRS 1 from 2 to 13 μm at High Resolution: Probing the Circumstellar Disk
-Indriolo, Nick; Neufeld, D. A.; Barr, A. G.; Boogert, A. C. A.;
-The Astrophysical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...894..107I
-
-Orbital Refinement and Stellar Properties for the HD 9446, HD 43691, and HD 179079 Planetary Systems
-Hill, Michelle L.; Močnik, Teo; Kane, Stephen R.; Henry, Gregory W.;
-The Astronomical Journal - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..197H
-
-Type IIn supernova light-curve properties measured from an untargeted survey sample
-Nyholm, A.; Sollerman, J.; Tartaglia, L.; Taddia, F.; Fremling, C.;
-Astronomy and Astrophysics - 05/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...637A..73N
-
-An extremely energetic supernova from a very massive star in a dense medium
-Nicholl, Matt; Blanchard, Peter K.; Berger, Edo; Chornock, Ryan;
-Nature Astronomy - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020NatAs...4..893N
-
-HST/WFC3 grism observations of z ∼ 1 clusters: evidence for evolution in the mass-size relation of quiescent galaxies from post-starburst galaxies
-Matharu, J.; Muzzin, A.; Brammer, G. B.; van der Burg, R. F. J.;
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.6011M
-
-The GOGREEN survey: the environmental dependence of the star-forming galaxy main sequence at 1.0 < z < 1.5
-Old, Lyndsay J.; Balogh, Michael L.; van der Burg, Remco F. J.;
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5987O
-
-Spectral variability of a sample of extreme variability quasars and implications for the Mg II broad-line region
-Yang, Qian; Shen, Yue; Chen, Yu-Ching; Liu, Xin; Annis, James; Avila,
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5773Y
-
-Crystalline silicate absorption at 11.1 μm: ubiquitous and abundant in embedded YSOs and the interstellar medium
-Do-Duy, Tho; Wright, Christopher M.; Fujiyoshi, Takuya; Glasse,
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4463D
-
-Reionization history constraints from neural network based predictions of high-redshift quasar continua
-Ďurovčíková, Dominika; Katz, Harley; Bosman, Sarah E. I.; Davies,
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.4256D
-
-Two new double-lined spectroscopic binary white dwarfs
-Kilic, Mukremin; Bédard, A.; Bergeron, P.; Kosakowski, Alekzander
-Monthly Notices of the Royal Astronomical Society - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2805K
-
-Observational investigation of the 2013 near-Earth encounter by asteroid (367943) Duende
-Moskovitz, Nicholas A.; Benson, Conor James; Scheeres, Daniel;
-Icarus - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020Icar..34013519M
-
-High-resolution UV/Optical/IR Imaging of Jupiter in 2016-2019
-Wong, Michael H.; Simon, Amy A.; Tollefson, Joshua W.; de Pater,
-The Astrophysical Journal Supplement Series - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJS..247...58W
-
-WASP-4 Is Accelerating toward the Earth
-Bouma, L. G.; Winn, J. N.; Howard, A. W.; Howell, S. B.; Isaacson,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..29B
-
-Gemini Near-Infrared Field Spectrograph Observations of the Seyfert 2 Galaxy Mrk 3: Feeding and Feedback on Galactic and Nuclear Scales
-Gnilka, C. L.; Crenshaw, D. M.; Fischer, T. C.; Revalski, M.; Meena,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...893...80G
-
-A 1201 s Orbital Period Detached Binary: The First Double Helium Core White Dwarf LISA Verification Binary
-Brown, Warren R.; Kilic, Mukremin; Bédard, A.; Kosakowski,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..35B
-
-The Lowest of the Low: Discovery of SN 2019gsc and the Nature of Faint Iax Supernovae
-Srivastav, Shubham; Smartt, Stephen J.; Leloudas, Giorgos; Huber,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..24S
-
-Host Galaxies of Type Ic and Broad-lined Type Ic Supernovae from the Palomar Transient Factory: Implications for Jet Production
-Modjaz, Maryam; Bianco, Federica B.; Siwek, Magdalena; Huang, Shan;
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...892..153M
-
-Variability and the Size-Luminosity Relation of the Intermediate-mass AGN in NGC 4395
-Cho, Hojin; Woo, Jong-Hak; Hodges-Kluck, Edmund; Son, Donghoon; Shin,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...892...93C
-
-Using Data Imputation for Signal Separation in High-contrast Imaging
-Ren, Bin; Pueyo, Laurent; Chen, Christine; Choquet, Élodie; Debes,
-The Astrophysical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...892...74R
-
-Outflow from Outer-arm Starburst in a Grazing Collision between Galaxies
-Kaufman, Michele; Elmegreen, Bruce G.; Andersen, Morten; Elmegreen,
-The Astronomical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..180K
-
-LHS 1815b: The First Thick-disk Planet Detected by TESS
-Gan, Tianjun; Shporer, Avi; Livingston, John H.; Collins, Karen A.;
-The Astronomical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..160G
-
-TOI-503: The First Known Brown-dwarf Am-star Binary from the TESS Mission
-Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson,
-The Astronomical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S
-
-Size and Shape Constraints of (486958) Arrokoth from Stellar Occultations
-Buie, Marc W.; Porter, Simon B.; Tamblyn, Peter; Terrell, Dirk;
-The Astronomical Journal - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159..130B
-
-A hot terrestrial planet orbiting the bright M dwarf L 168-9 unveiled by TESS
-Astudillo-Defru, N.; Cloutier, R.; Wang, S. X.; Teske, J.; Brahm, R.;
-Astronomy and Astrophysics - 04/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...636A..58A
-
-Asteroid Diameters and Albedos from NEOWISE Reactivation Mission Years 4 and 5
-Masiero, Joseph R.; Mainzer, A. K.; Bauer, J. M.; Cutri, R. M.; Grav,
-The Planetary Science Journal - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020PSJ.....1....5M
-
-The infrared view of dust and molecules around V4334 Sgr (Sakurai's object): a 20-yr retrospective
-Evans, A.; Gehrz, R. D.; Woodward, C. E.; Banerjee, D. P. K.;
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1277E
-
-Nebular spectra of 111 Type Ia supernovae disfavour single-degenerate progenitors
-Tucker, M. A.; Shappee, B. J.; Vallely, P. J.; Stanek, K. Z.; Prieto,
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.1044T
-
-Direct imaging of irregular satellite discs in scattered light
-Nassif-Lachapelle, Loic; Tamayo, Daniel
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.5709N
-
-The X-ray emissivity of low-density stellar populations
-Heinke, C. O.; Ivanov, M. G.; Koch, E. W.; Andrews, R.; Chomiuk, L.;
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.5684H
-
-Short gamma-ray bursts within 200 Mpc
-Dichiara, S.; Troja, E.; O'Connor, B.; Marshall, F. E.; Beniamini,
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.5011D
-
-The Swift Bulge Survey: optical and near-IR follow-up featuring a likely symbiotic X-ray binary and a focused wind CV
-Shaw, A. W.; Heinke, C. O.; Maccarone, T. J.; Sivakoff, G. R.;
-Monthly Notices of the Royal Astronomical Society - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4344S
-
-Strong Lens Models for 37 Clusters of Galaxies from the SDSS Giant Arcs Survey
-Sharon, Keren; Bayliss, Matthew B.; Dahle, Håkon; Dunham, Samuel J.;
-The Astrophysical Journal Supplement Series - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJS..247...12S
-
-The MASSIVE Survey XIV—Stellar Velocity Profiles and Kinematic Misalignments from 200 pc to 20 kpc in Massive Early-type Galaxies
-Ene, Irina; Ma, Chung-Pei; Walsh, Jonelle L.; Greene, Jenny E.;
-The Astrophysical Journal - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...891...65E
-
-Discovery of a Remarkably Powerful Broad Absorption-line Quasar Outflow in SDSS J135246.37+423923.5
-Choi, Hyunseop; Leighly, Karen M.; Terndrup, Donald M.; Gallagher,
-The Astrophysical Journal - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...891...53C
-
-The MASSIVE Survey. XV. A Stellar Dynamical Mass Measurement of the Supermassive Black Hole in Massive Elliptical Galaxy NGC 1453
-Liepold, Christopher M.; Quenneville, Matthew E.; Ma, Chung-Pei;
-The Astrophysical Journal - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...891....4L
-
-The long-lived Type IIn SN 2015da: Infrared echoes and strong interaction within an extended massive shell
-Tartaglia, L.; Pastorello, A.; Sollerman, J.; Fransson, C.; Mattila,
-Astronomy and Astrophysics - 03/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...635A..39T
-
-Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
-Hees, A.; Do, T.; Roberts, B. M.; Ghez, A. M.; Nishiyama, S.;
-Physical Review Letters - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020PhRvL.124h1101H
-
-A year-long plateau in the late-time near-infrared light curves of type Ia supernovae
-Graur, O.; Maguire, K.; Ryan, R.; Nicholl, M.; Avelino, A.; Riess, A.
-Nature Astronomy - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020NatAs...4..188G
-
-Li abundances for solar twins in the open cluster M67
-Carlos, Marília; Meléndez, Jorge; do Nascimento, José-Dias; Castro,
-Monthly Notices of the Royal Astronomical Society - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020MNRAS.492..245C
-
-Peter Pan Disks: Long-lived Accretion Disks Around Young M Stars
-Silverberg, Steven M.; Wisniewski, John P.; Kuchner, Marc J.; Lawson,
-The Astrophysical Journal - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...890..106S
-
-The Orion Protostellar Explosion and Runaway Stars Revisited: Stellar Masses, Disk Retention, and an Outflow from the Becklin-Neugebauer Object
-Bally, John; Ginsburg, Adam; Forbrich, Jan; Vargas-González, Jaime
-The Astrophysical Journal - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...889..178B
-
-Expanding the Y Dwarf Census with Spitzer Follow-up of the Coldest CatWISE Solar Neighborhood Discoveries
-Meisner, Aaron M.; Caselden, Dan; Kirkpatrick, J. Davy; Marocco,
-The Astrophysical Journal - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...889...74M
-
-The Gemini Planet Imager Exoplanet Survey: Dynamical Mass of the Exoplanet β Pictoris b from Combined Direct Imaging and Astrometry
-Nielsen, Eric L.; De Rosa, Robert J.; Wang, Jason J.; Sahlmann,
-The Astronomical Journal - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159...71N
-
-Imaging the 44 au Kuiper Belt Analog Debris Ring around HD 141569A with GPI Polarimetry
-Bruzzone, Juan Sebastián; Metchev, Stanimir; Duchêne, Gaspard;
-The Astronomical Journal - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159...53B
-
-Searching for water ice in the coma of interstellar object 2I/Borisov
-Yang, Bin; Kelley, Michael S. P.; Meech, Karen J.; Keane, Jacqueline
-Astronomy and Astrophysics - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...634L...6Y
-
-Gemini-GRACES high-quality spectra of Kepler evolved stars with transiting planets. I. Detailed characterization of multi-planet systems Kepler-278 and Kepler-391
-Jofré, E.; Almenara, J. M.; Petrucci, R.; Díaz, R. F.; Gómez Maqueo
-Astronomy and Astrophysics - 02/2020
-https://ui.adsabs.harvard.edu/abs/2020A&A...634A..29J
-
-A repeating fast radio burst source localized to a nearby spiral galaxy
-Marcote, B.; Nimmo, K.; Hessels, J. W. T.; Tendulkar, S. P.; Bassa,
-Nature - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020Natur.577..190M
-
-The ELM Survey. VIII. Ninety-eight Double White Dwarf Binaries
-Brown, Warren R.; Kilic, Mukremin; Kosakowski, Alekzander; Andrews,
-The Astrophysical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...889...49B
-
-Spectral Classification and Ionized Gas Outflows in z ∼ 2 WISE-selected Hot Dust-obscured Galaxies
-Jun, Hyunsung D.; Assef, Roberto J.; Bauer, Franz E.; Blain, Andrew;
-The Astrophysical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...888..110J
-
-A New Microquasar Candidate in M83
-Soria, Roberto; Blair, William P.; Long, Knox S.; Russell, Thomas D.;
-The Astrophysical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...888..103S
-
-Surprisingly Strong K-band Emission Found in Low-luminosity Active Galactic Nuclei
-Dumont, Antoine; Seth, Anil C.; Strader, Jay; Greene, Jenny E.;
-The Astrophysical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...888...19D
-
-Irregular Dust Features around Intermediate-mass Young Stars with GPI: Signs of Youth or Misaligned Disks?
-Laws, Anna S. E.; Harries, Tim J.; Setterholm, Benjamin R.; Monnier,
-The Astrophysical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020ApJ...888....7L
-
-First Resolved Scattered-light Images of Four Debris Disks in Scorpius-Centaurus with the Gemini Planet Imager
-Hom, Justin; Patience, Jennifer; Esposito, Thomas M.; Duchêne,
-The Astronomical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159...31H
-
-The Complex Rotational Light Curve of (385446) Manwë-Thorondor, a Multicomponent Eclipsing System in the Kuiper Belt
-Rabinowitz, David L.; Benecchi, Susan D.; Grundy, William M.;
-The Astronomical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159...27R
-
-An Updated Visual Orbit of the Directly Imaged Exoplanet 51 Eridani b and Prospects for a Dynamical Mass Measurement with Gaia
-De Rosa, Robert J.; Nielsen, Eric L.; Wang, Jason J.; Ammons, S.
-The Astronomical Journal - 01/2020
-https://ui.adsabs.harvard.edu/abs/2020AJ....159....1D
-
-The whole picture of the large-scale structure of the CL1604 supercluster at z ∼ 0.9
-Hayashi, Masao; Koyama, Yusei; Kodama, Tadayuki; Komiyama, Yutaka;
-Publications of the Astronomical Society of Japan - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019PASJ...71..112H
-
-Discovery of a new WZ Sagittae-type cataclysmic variable in the Kepler/K2 data
-Ridden-Harper, R.; Tucker, B. E.; Garnavich, P.; Rest, A.; Margheim,
-Monthly Notices of the Royal Astronomical Society - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5551R
-
-Deep ATCA and VLA Radio Observations of Short-GRB Host Galaxies. Constraints on Star Formation Rates, Afterglow Flux, and Kilonova Radio Flares
-Klose, S.; Nicuesa Guelbenzu, A. M.; Michałowski, M. J.; Hunt, L. K.;
-The Astrophysical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...887..206K
-
-Supernova 2014C: Ongoing Interaction with Extended Circumstellar Material with Silicate Dust
-Tinyanont, Samaporn; Lau, Ryan M.; Kasliwal, Mansi M.; Maeda,
-The Astrophysical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...887...75T
-
-Triangulum-Andromeda Overdensity: a Region with a Complex Stellar Population
-Sales Silva, J. V.; Perottoni, H. D.; Cunha, K.; Rocha-Pinto, H. J.;
-The Astrophysical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...886..113S
-
-Detection of a Low-mass Stellar Companion to the Accelerating A2IV Star HR 1645
-De Rosa, Robert J.; Nielsen, Eric L.; Rameau, Julien; Duchêne,
-The Astronomical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..226D
-
-Phosphorus Abundances in the Hyades and Galactic Disk
-Maas, Z. G.; Cescutti, G.; Pilachowski, C. A.
-The Astronomical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..219M
-
-Visual Orbits of Spectroscopic Binaries with the CHARA Array. II. The Eclipsing Binary HD 185912
-Lester, Kathryn V.; Gies, Douglas R.; Schaefer, Gail H.; Farrington,
-The Astronomical Journal - 12/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..218L
-
-TOI-150b and TOI-163b: two transiting hot Jupiters, one eccentric and one inflated, revealed by TESS near and at the edge of the JWST CVZ
-Kossakowski, Diana; Espinoza, Néstor; Brahm, Rafael; Jordán, Andrés;
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.1094K
-
-The DECam minute cadence survey - II. 49 variables but no planetary transits of a white dwarf
-Dame, Kyra; Belardi, Claudia; Kilic, Mukremin; Rest, Armin;
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.1066D
-
-H0LiCOW - X. Spectroscopic/imaging survey and galaxy-group identification around the strong gravitational lens system WFI 2033-4723
-Sluse, D.; Rusu, C. E.; Fassnacht, C. D.; Sonnenfeld, A.; Richard,
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..613S
-
-A panchromatic spatially resolved study of the inner 500 pc of NGC 1052 - II. Gas excitation and kinematics
-Dahmer-Hahn, L. G.; Riffel, R.; Ricci, T. V.; Steiner, J. E.;
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5653D
-
-Slow decline and rise of the broad [O III] emission line in globular cluster black hole candidate RZ2109
-Dage, Kristen C.; Zepf, Stephen E.; Bahramian, Arash; Strader, Jay;
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4783D
-
-Outflowing gas in a compact ionization cone in the Seyfert 2 galaxy ESO 153-G20
-Soto-Pinto, Pamela; Nagar, Neil M.; Finlez, Carolina; Ramakrishnan,
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4111S
-
-A magnetic white dwarf with five H α components
-Kilic, Mukremin; Rolland, B.; Bergeron, P.; Vanderbosch, Z.; Benni,
-Monthly Notices of the Royal Astronomical Society - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3648K
-
-Infrared Spectroscopy of the Recent Outburst in V1047 Cen (Nova Centauri 2005)
-Geballe, T. R.; Banerjee, D. P. K.; Evans, A.; Gehrz, R. D.;
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...886L..14G
-
-The SPIRITS Sample of Luminous Infrared Transients: Uncovering Hidden Supernovae and Dusty Stellar Outbursts in Nearby Galaxies
-Jencson, Jacob E.; Kasliwal, Mansi M.; Adams, Scott M.; Bond, Howard
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...886...40J
-
-SN2018kzr: A Rapidly Declining Transient from the Destruction of a White Dwarf
-McBrien, Owen R.; Smartt, Stephen J.; Chen, Ting-Wan; Inserra,
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..23M
-
-Fluorine Abundances in the Galactic Disk
-Guerço, Rafael; Cunha, Katia; Smith, Verne V.; Hayes, Christian R.;
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...885..139G
-
-SN 2017gmr: An Energetic Type II-P Supernova with Asymmetries
-Andrews, Jennifer E.; Sand, D. J.; Valenti, S.; Smith, Nathan;
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...885...43A
-
-A Rapidly Declining Transient Discovered with the Subaru/Hyper Suprime-Cam
-Tominaga, Nozomu; Morokuma, Tomoki; Tanaka, Masaomi; Yasuda, Naoki;
-The Astrophysical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...885...13T
-
-Model of the Search for Extraterrestrial Intelligence with Coronagraphic Imaging
-Vides, Christina L.; Macintosh, Bruce; Binder, Breanna A.; De Rosa,
-The Astronomical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..207V
-
-Visible Spectroscopy from the Mission Accessible Near-Earth Object Survey (MANOS): Taxonomic Dependence on Asteroid Size
-Devogèle, Maxime; Moskovitz, Nicholas; Thirouin, Audrey; Gustaffson,
-The Astronomical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..196D
-
-Near-resonance in a System of Sub-Neptunes from TESS
-Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
-The Astronomical Journal - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q
-
-Ground-based optical transmission spectrum of the hot Jupiter HAT-P-1b
-Todorov, Kamen O.; Désert, Jean-Michel; Huitson, Catherine M.; Bean,
-Astronomy and Astrophysics - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019A&A...631A.169T
-
-Chemical complexity in high-mass star formation. An observational and modeling case study of the AFGL 2591 VLA 3 hot core
-Gieser, C.; Semenov, D.; Beuther, H.; Ahmadi, A.; Mottram, J. C.;
-Astronomy and Astrophysics - 11/2019
-https://ui.adsabs.harvard.edu/abs/2019A&A...631A.142G
-
-The spatial extension of extended narrow line regions in MaNGA AGN
-Chen, Jianhang; Shi, Yong; Dempsey, Ross; Law, David R.; Chen,
-Monthly Notices of the Royal Astronomical Society - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489..855C
-
-Host galaxies of high-redshift extremely red and obscured quasars
-Zakamska, Nadia L.; Sun, Ai-Lei; Strauss, Michael A.; Alexandroff,
-Monthly Notices of the Royal Astronomical Society - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.489..497Z
-
-Multiwavelength characterization of the accreting millisecond X-ray pulsar and ultracompact binary IGR J17062-6143
-Hernández Santisteban, J. V.; Cúneo, V.; Degenaar, N.; van den
-Monthly Notices of the Royal Astronomical Society - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.4596H
-
-Discovery and Identification of MAXI J1621-501 as a Type I X-Ray Burster with a Super-orbital Period
-Gorgone, Nicholas M.; Kouveliotou, Chryssa; Negoro, Hitoshi; Wijers,
-The Astrophysical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...884..168G
-
-Discovery of the Galactic High-mass Gamma-Ray Binary 4FGL J1405.1-6119
-Corbet, R. H. D.; Chomiuk, L.; Coe, M. J.; Coley, J. B.; Dubus, G.;
-The Astrophysical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...884...93C
-
-Supermassive Black Hole Binary Candidates from the Pan-STARRS1 Medium Deep Survey
-Liu, T.; Gezari, S.; Ayers, M.; Burgett, W.; Chambers, K.; Hodapp,
-The Astrophysical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...884...36L
-
-Exploring Reionization-era Quasars. III. Discovery of 16 Quasars at 6.4 ≲ z ≲ 6.9 with DESI Legacy Imaging Surveys and the UKIRT Hemisphere Survey and Quasar Luminosity Function at z ∼ 6.7
-Wang, Feige; Yang, Jinyi; Fan, Xiaohui; Wu, Xue-Bing; Yue, Minghao;
-The Astrophysical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...884...30W
-
-SILVERRUSH. VIII. Spectroscopic Identifications of Early Large-scale Structures with Protoclusters over 200 Mpc at z ∼ 6-7: Strong Associations of Dusty Star-forming Galaxies
-Harikane, Yuichi; Ouchi, Masami; Ono, Yoshiaki; Fujimoto, Seiji;
-The Astrophysical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019ApJ...883..142H
-
-A Data Reduction Pipeline for Gemini-North’s Near-infrared Integral Field Spectrometer
-Lemoine-Busserolle, Marie; Comeau, Nathaniel; Kielty, Collin;
-The Astronomical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..153L
-
-Three Red Suns in the Sky: A Transiting, Terrestrial Planet in a Triple M-dwarf System at 6.9 pc
-Winters, Jennifer G.; Medina, Amber A.; Irwin, Jonathan M.;
-The Astronomical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..152W
-
-The Quadratic Programming Method for Extracting Emission Line Maps from Line-blended Narrowband Images
-Ueta, Toshiya; Mito, Hiroyuki; Otsuka, Masaaki; Nakada, Yoshikazu;
-The Astronomical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..145U
-
-First ALMA Millimeter-wavelength Maps of Jupiter, with a Multiwavelength Study of Convection
-de Pater, Imke; Sault, R. J.; Moeckel, Chris; Moullet, Arielle; Wong,
-The Astronomical Journal - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019AJ....158..139D
-
-Evidence for a Chandrasekhar-mass explosion in the Ca-strong 1991bg-like type Ia supernova 2016hnk
-Galbany, L.; Ashall, C.; Höflich, P.; González-Gaitán, S.;
-Astronomy and Astrophysics - 10/2019
-https://ui.adsabs.harvard.edu/abs/2019A&A...630A..76G
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904...26Y
+
+Optical and Near-infrared Observations of the Nearby SN Ia 2017cbv
+Wang, Lingzhi; Contreras, Carlos; Hu, Maokai; Hamuy, Mario A.; Hsiao,
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...904...14W
+
+Direct Radio Discovery of a Cold Brown Dwarf
+Vedantham, H. K.; Callingham, J. R.; Shimwell, T. W.; Dupuy, T.;
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903L..33V
+
+Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for Their Progenitors
+Heintz, Kasper E.; Prochaska, J. Xavier; Simha, Sunil; Platts, Emma;
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903..152H
+
+A Strong-lensing Model for the WMDF JWST/GTO Very Rich Cluster A1489
+Zitrin, Adi; Acebron, Ana; Coe, Dan; Kelly, Patrick L.; Koekemoer,
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903..137Z
+
+Clumping in the Winds of Wolf-Rayet Stars
+Chené, André-Nicolas; St-Louis, Nicole; Moffat, Anthony F. J.;
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903..113C
+
+Subaru High-z Exploration of Low-luminosity Quasars (SHELLQs). XI. Proximity Zone Analysis for Faint Quasar Spectra at z ∼ 6
+Ishimoto, Rikako; Kashikawa, Nobunari; Onoue, Masafusa; Matsuoka,
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903...60I
+
+Probing the Nature of High-redshift Weak Emission Line Quasars: A Young Quasar with a Starburst Host Galaxy
+Andika, Irham Taufik; Jahnke, Knud; Onoue, Masafusa; Bañados,
+The Astrophysical Journal - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...903...34A
+
+TDCOSMO. IV. Hierarchical time-delay cosmography - joint inference of the Hubble constant and galaxy density profiles
+Birrer, S.; Shajib, A. J.; Galan, A.; Millon, M.; Treu, T.; Agnello,
+Astronomy and Astrophysics - 11/2020
+https://ui.adsabs.harvard.edu/abs/2020A&A...643A.165B
+
+The OH Megamaser galaxy IRAS11506-3851: an AGN and star formation revealed by multiwavelength observations
+Hekatelyne, C.; Riffel, Rogemar A.; Storchi-Bergmann, Thaisa; Kharb,
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2632H
+
+AT 2017gbl: a dust obscured TDE candidate in a luminous infrared galaxy
+Kool, E. C.; Reynolds, T. M.; Mattila, S.; Kankare, E.; Pérez-Torres,
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2167K
+
+H0LiCOW XII. Lens mass model of WFI2033-4723 and blind measurement of its time-delay distance and H<SUB>0</SUB>
+Rusu, Cristian E.; Wong, Kenneth C.; Bonvin, Vivien; Sluse,
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1440R
+
+AStroLens: automatic strong-lens modelling of X-ray selected galaxy clusters
+Zalesky, Lukas; Ebeling, Harald
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1121Z
+
+Confirming new white dwarf-ultracool dwarf binary candidates
+Hogg, M. A.; Casewell, S. L.; Wynn, G. A.; Longstaff, E. S.; Braker,
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.498...12H
+
+Ground-based transmission spectroscopy with FORS2: A featureless optical transmission spectrum and detection of H<SUB>2</SUB>O for the ultra-hot Jupiter WASP-103b
+Wilson, Jamie; Gibson, Neale P.; Nikolov, Nikolay; Constantinou,
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5155W
+
+Powerful ionized gas outflows in the interacting radio galaxy 4C+29.30
+Couto, Guilherme S.; Storchi-Bergmann, Thaisa; Siemiginowska, Aneta;
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5103C
+
+K2-280 b - a low density warm sub-Saturn around a mildly evolved star
+Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
+Monthly Notices of the Royal Astronomical Society - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N
+
+A JWST Preview: Adaptive-optics Images of H<SUB>2</SUB>, Br-γ, and K-continuum in Carina's Western Wall
+Hartigan, Patrick; Downes, Turlough; Isella, Andrea
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902L...1H
+
+Direct Evidence of Two-component Ejecta in Supernova 2016gkg from Nebular Spectroscopy
+Kuncarayakti, Hanindyo; Folatelli, Gastón; Maeda, Keiichi; Dessart,
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902..139K
+
+On the Nature of the T Tauri Triple System
+Beck, Tracy L.; Schaefer, G. H.; Guilloteau, S.; Simon, M.; Dutrey,
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902..132B
+
+Radial Distributions of Dwarf Satellite Systems in the Local Volume
+Carlsten, Scott G.; Greene, Jenny E.; Peter, Annika H. G.; Greco,
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902..124C
+
+The Young and Nearby Normal Type Ia Supernova 2018gv: UV-optical Observations and the Earliest Spectropolarimetry
+Yang, Yi; Hoeflich, Peter; Baade, Dietrich; Maund, Justyn R.; Wang,
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902...46Y
+
+The Central 300 pc of the Galaxy Probed by Infrared Spectra of H<SUB>3</SUB><SUP>+</SUP> and CO. II. Expansion and Morphology of the Warm Diffuse Gas
+Oka, Takeshi; Geballe, T. R.
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902....9O
+
+SN 2018fif: The Explosion of a Large Red Supergiant Discovered in Its Infancy by the Zwicky Transient Facility
+Soumagnac, Maayane T.; Ganot, Noam; Irani, Ido; Gal-yam, Avishay;
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...902....6S
+
+Limits on Precursor and Afterglow Radio Emission from a Fast Radio Burst in a Star-forming Galaxy
+Bhandari, Shivani; Bannister, Keith W.; Lenc, Emil; Cho, Hyerin;
+The Astrophysical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020ApJ...901L..20B
+
+The Dynamics of the Wide-angle Tailed (WAT) Galaxy Cluster A562
+Gómez, P. L.; Calderón, D.
+The Astronomical Journal - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020AJ....160..152G
+
+Discovery of a hot, transiting, Earth-sized planet and a second temperate, non-transiting planet around the M4 dwarf GJ 3473 (TOI-488)
+Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.; Molaverdikhani,
+Astronomy and Astrophysics - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K
+
+The CARMENES search for exoplanets around M dwarfs. Two planets on opposite sides of the radius gap transiting the nearby M dwarf LTT 3780
+Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; Molaverdikhani, K.;
+Astronomy and Astrophysics - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N
+
+Chandra reveals a luminous Compton-thick QSO powering a Lyα blob in a z = 4 starbursting protocluster
+Vito, F.; Brandt, W. N.; Lehmer, B. D.; Vignali, C.; Zou, F.; Bauer,
+Astronomy and Astrophysics - 10/2020
+https://ui.adsabs.harvard.edu/abs/2020A&A...642A.149V

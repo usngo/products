@@ -1,11 +1,11 @@
 
 ======================================
-Metrics for USA (2019-10 - 2020-09)
+Metrics for USA (2020-10 - 2021-09)
 ======================================
-number of papers   182
-total citations    2467
-h-index            25
-i-10 index         71
-i-100 index        2
+number of papers   200
+total citations    1433
+h-index            19
+i-10 index         41
+i-100 index        1
 ======================================
 
