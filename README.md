@@ -5,6 +5,12 @@ This repository contains some of the scripts used by the US NGO to generate its 
 ---
 ## Before you try the scripts:
 
+- [x] For MAC users, install `homebrew` via:
+
+   ```
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+ 
 - [x] List of command-line tools required:
 
    ```
